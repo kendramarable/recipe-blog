@@ -13,7 +13,7 @@ source: "grandma"
 
 ## Ingredients
  
-- 1 cup sugar 
+- 1 cup white or light brown sugar 
 - 1 cup dark corn syrup
 - 1 cup pecans
 - 3 eggs, slightly beaten

@@ -1,17 +1,13 @@
 import Card from "@/components/Card";
+import SearchBar from "@/components/SearchBar";
 import getMetadata from "@/utils/getMetadata";
+import SearchResult from "@/components/SearchResult";
 
 export default function Home() {
   const postMetadata = getMetadata('recipes');
   return (
     <main>
-      <div className="postsContainer">
-        {postMetadata.map((post, postIndex) => {
-          return (
-            <Card key={postIndex} post={post}/>
-          )
-        })}
-      </div>
+      <SearchResult postMetadata={postMetadata} />
     </main>
   );
 }

@@ -42,4 +42,4 @@ source: "grandma"
 8. **Chill** until firm, about 2 hours
 
 
-*source: grandma's recipe, originally from Crisco"*
+*source: grandma's recipe, originally from Crisco*

@@ -34,4 +34,4 @@ source: "grandma"
 6. **Chill** for 2 hours before serving
 
 
-*source: grandma's recipe"*
+*source: grandma's recipe*
