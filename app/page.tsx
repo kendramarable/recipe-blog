@@ -1,5 +1,3 @@
-import Card from "@/components/Card";
-import SearchBar from "@/components/SearchBar";
 import getMetadata from "@/utils/getMetadata";
 import SearchResult from "@/components/SearchResult";
 

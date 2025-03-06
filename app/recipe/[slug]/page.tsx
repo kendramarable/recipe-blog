@@ -19,25 +19,27 @@ export const generateStaticParams = async () => {
 }
 
 // will change the blog title according to the slug, helps with SEO
-export async function generateMetadata({params, searchParams}: {params: {slug: string}, searchParams: URLSearchParams}) {
+export async function generateMetadata(
+    props: {params: Promise<{slug: string}>, searchParams: Promise<URLSearchParams>}
+) {
+    const params = await props.params;
     const id = params?.slug ? ' | ' + params?.slug : '';
     return {
         title: `Recipe Blog${id.replaceAll('_', ' ')}`
     }
-
 }
 
 interface RecipeBlogpostProps {
-    params: {
+    params: Promise<{
         slug: string;
-    };
+    }>;
 }
 interface BlogpostContent {
     content: string;
 }
 
-export default function RecipeBlogpost(props: RecipeBlogpostProps) {
-    const slug = props.params.slug;
+export default async function RecipeBlogpost(props: RecipeBlogpostProps) {
+    const slug = (await props.params).slug;
     const blogpost: BlogpostContent = getBlogpostContent(slug);
 
     return (

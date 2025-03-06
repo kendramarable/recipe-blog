@@ -13,6 +13,8 @@ interface PostMetadata {
     slug: string; 
 }
 
+// searchResult displays all the recipes that match the searchValue
+// (looks for recipe titles that match the user's text input into the SearchBar)
 export default function SearchResult(props: { postMetadata: any; }) {
     const {postMetadata} = props;
     const [searchValue, setSearchValue] = useState('');
@@ -24,7 +26,7 @@ export default function SearchResult(props: { postMetadata: any; }) {
             />
             <div className="postsContainer">
                 {postMetadata.filter((val: PostMetadata) => {
-                    return val.title.includes(searchValue)
+                    return val.title.toLowerCase().includes(searchValue.toLowerCase())
                 }).map((post: PostMetadata, postIndex: number) => {
                 return (
                     <Card key={postIndex} post={post}/>

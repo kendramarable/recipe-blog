@@ -51,7 +51,7 @@ source: "mom"
 
 13. **Stir in** bacon, cheese, and parsley
 
-14. **Spoon** mixture** into mushroom caps
+14. **Spoon** mixture into mushroom caps
 
 15. **Place** on a baking sheet
 
