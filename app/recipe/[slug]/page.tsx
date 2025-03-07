@@ -3,6 +3,7 @@ import getMetadata from "@/utils/getMetadata"
 import fs from "fs"
 import matter from "gray-matter"
 import React from "react"
+import { cn } from "@/lib/utils"
 
 function getBlogpostContent(slug: string) {
     const folder = 'recipes/';
@@ -43,8 +44,13 @@ export default async function RecipeBlogpost(props: RecipeBlogpostProps) {
     const blogpost: BlogpostContent = getBlogpostContent(slug);
 
     return (
-        <main>
-            <article>
+        <main className={cn(
+            "flex flex-1 flex-col justify-center",
+        )}>
+            <article 
+                className={cn(
+                    "w-[850px] rounded-base shadow-shadow border-2 border-border bg-main text-mtext",
+            )}>
                 <Markdown>{blogpost.content}</Markdown>
             </article>
         </main>

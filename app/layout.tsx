@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import "./globals.css";
 import Link from "next/link";
+import { cn } from "@/lib/utils"
 
 export const metadata: Metadata = {
   title: "Recipe Blog",
@@ -14,15 +15,20 @@ export default function RootLayout({
 }>) {
 
   let header = (
-    <header>
+    <header className={cn(
+      "w-full max-w-800 m-auto my-2 pl-10 flex h-20 items-center space-x-1 rounded-base border-2 border-border bg-main"
+    )}>
       <Link href='/'>
-        <h1>Recipe Blog Name</h1>
+        <h1 className="text-3xl font-bold">Recipe Blog Name</h1>
       </Link>
     </header>
   )
 
   let footer = (
-    <footer>
+    <footer
+    className={cn(
+      "w-full max-w-800 m-auto flex items-center justify-center p-30px"
+    )}>
       km, 2025
     </footer>
   )

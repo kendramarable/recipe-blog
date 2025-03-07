@@ -2,6 +2,7 @@
 import React, {useState} from 'react';
 import SearchBar from './SearchBar';
 import Card from './Card';
+import { cn } from "@/lib/utils"
 
 interface PostMetadata {
     title: string; 
@@ -24,7 +25,9 @@ export default function SearchResult(props: { postMetadata: any; }) {
                 searchValue={searchValue}
                 setSearchValue={setSearchValue}
             />
-            <div className="postsContainer">
+            <div className={cn(
+                "grid grid-cols-2 gap-24"
+            )}>
                 {postMetadata.filter((val: PostMetadata) => {
                     return val.title.toLowerCase().includes(searchValue.toLowerCase())
                 }).map((post: PostMetadata, postIndex: number) => {
