@@ -26,7 +26,7 @@ export async function generateMetadata(
     const params = await props.params;
     const id = params?.slug ? ' | ' + params?.slug : '';
     return {
-        title: `Recipe Blog${id.replaceAll('_', ' ')}`
+        title: `Cindy's Cookbook${id.replaceAll('_', ' ')}`
     }
 }
 
