@@ -9,7 +9,7 @@ source: "mom"
 
 # Pumpkin Bread
 
-### Prep Time: 10 minutes | Cook Time: 60 minutes | Makes 8 Servings
+#### Prep Time: 10 minutes | Cook Time: 60 minutes | Makes 8 Servings
 
 ## Ingredients
  
@@ -36,4 +36,4 @@ source: "mom"
 6. **Bake** at 350 degrees for approximately 1 hour
 
 
-*source: mom's recipe, personal favorite*
+###### *source: mom's recipe, personal favorite*

@@ -9,7 +9,7 @@ source: "grandma"
 
 # Pumpkin Pie
 
-### Prep Time: 15 minutes | Cook Time: 50 minutes | Makes 8 Servings
+#### Prep Time: 15 minutes | Cook Time: 50 minutes | Makes 8 Servings
 
 ## Ingredients
  
@@ -38,4 +38,4 @@ source: "grandma"
 - In place of pumpkin pie spice, you can use 1 teaspoon cinnamon, ½ teaspoon nutmeg, ¼ teaspoon, ginger, and ¼ teaspoon cloves
 
 
-*source: grandma's recipe, originally from PET Evaporated Milk*
+###### *source: grandma's recipe, originally from PET Evaporated Milk*

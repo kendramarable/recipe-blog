@@ -9,7 +9,7 @@ source: "grandma"
 
 #  Self-Frosted Fudge Cake
 
-### Prep Time: 15 minutes | Cook Time: 45 minutes | Makes 12 Servings
+#### Prep Time: 15 minutes | Cook Time: 45 minutes | Makes 12 Servings
 
 ## Ingredients
  
@@ -47,4 +47,5 @@ source: "grandma"
 
 10. **Note**: can substitute the fudge sauce mix with ¾ cup chocolate syrup; decrease water to ½ cup
 
-*source: grandma's recipe, originally from "Pillsbury Blue Ribbon Recipes: The Idea Flour"*
+
+###### *source: grandma's recipe, originally from "Pillsbury Blue Ribbon Recipes: The Idea Flour"*

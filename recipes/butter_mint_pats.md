@@ -9,7 +9,7 @@ source: "grandma"
 
 #  Butter Mint Pats
 
-### Prep Time: 25 minutes | Cook Time: 20 minutes | Makes 36 Servings
+#### Prep Time: 25 minutes | Cook Time: 20 minutes | Makes 36 Servings
 
 ## Ingredients
  
@@ -43,4 +43,4 @@ source: "grandma"
 11. **Note**: for chocolate butter-mint pats, add 1 to 2 tablespoons cocoa with the flour
 
 
-*source: grandma's recipe, originally from "Pillsbury Idea Recipes"*
+###### *source: grandma's recipe, originally from "Pillsbury Idea Recipes"*

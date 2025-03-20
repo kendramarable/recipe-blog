@@ -9,7 +9,7 @@ source: "mom"
 
 # Tunnel of Fudge Cake
 
-### Prep Time: 15 minutes | Cook Time: 70 minutes | Makes 12 Servings
+#### Prep Time: 15 minutes | Cook Time: 70 minutes | Makes 12 Servings
 
 ## Ingredients
  
@@ -41,4 +41,4 @@ source: "mom"
 9. **Cool completely** before serving
 
 
-*source: mom's recipe, originally from Pillsbury*
+###### *source: mom's recipe, originally from Pillsbury*

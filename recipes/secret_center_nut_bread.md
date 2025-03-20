@@ -9,7 +9,7 @@ source: "grandma"
 
 #  Secret Center Nut Bread
 
-### Prep Time: 30 minutes | Cook Time: 85 minutes | Makes 8 Servings
+#### Prep Time: 30 minutes | Cook Time: 85 minutes | Makes 8 Servings
 
 ## Ingredients: Filling
  
@@ -64,4 +64,4 @@ source: "grandma"
 11. **Wrap tightly** in aluminum foil and store in refrigerator
 
 
-*source: grandma's recipe, originally from "Pillsbury Idea Recipes"*
+###### *source: grandma's recipe, originally from "Pillsbury Idea Recipes"*

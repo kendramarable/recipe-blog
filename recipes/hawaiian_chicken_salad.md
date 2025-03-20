@@ -9,7 +9,7 @@ source: "mom"
 
 # Hawaiian Chicken Salad
 
-### Prep Time: 5 minutes | Cook Time: 0 minutes | Makes 4 Servings
+#### Prep Time: 5 minutes | Cook Time: 0 minutes | Makes 4 Servings
 
 ## Ingredients
  
@@ -29,4 +29,4 @@ source: "mom"
 2. **Serve** on lettuce and garnish with fresh fruit
 
 
-*source: mom's recipe, originally from Holly Barber*
+###### *source: mom's recipe, originally from Holly Barber*

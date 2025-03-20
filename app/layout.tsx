@@ -27,7 +27,7 @@ export default function RootLayout({
   let footer = (
     <footer
     className={cn(
-      "w-full max-w-800 m-auto flex items-center justify-center p-30px"
+      "w-full max-w-800 m-auto flex items-center justify-center pt-8"
     )}>
       km, 2025
     </footer>

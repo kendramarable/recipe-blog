@@ -9,7 +9,7 @@ source: "grandma"
 
 #  Chunk o' Chocolate Shake Cakes
 
-### Prep Time: 10 minutes | Cook Time: 25 minutes | Makes 18 Servings
+#### Prep Time: 10 minutes | Cook Time: 25 minutes | Makes 18 Servings
 
 ## Ingredients
  
@@ -44,4 +44,4 @@ source: "grandma"
 8. **Cool** and drizzle with confectioners sugar glaze, if desired
 
 
-*source: grandma's recipe, originally from "Pillsbury Blue Ribbon Recipes: The Idea Flour"*
+###### *source: grandma's recipe, originally from "Pillsbury Blue Ribbon Recipes: The Idea Flour"*

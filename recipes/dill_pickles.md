@@ -9,7 +9,7 @@ source: "grandma"
 
 # Dill Pickles
 
-### Prep Time: 5 minutes | Cook Time: 20 minutes | Makes Several Servings
+#### Prep Time: 5 minutes | Cook Time: 20 minutes | Makes Several Servings
 
 ## Ingredients
  
@@ -35,4 +35,4 @@ source: "grandma"
 6. **Put** lids on jars; make sure lids are sealed tightly
 
 
-*source: grandma's recipe, originally from Grandma Miller*
+###### *source: grandma's recipe, originally from Grandma Miller*

@@ -9,7 +9,7 @@ source: "grandma"
 
 # Vanilla Frosting
 
-### Prep Time: 5 minutes | Cook Time: 0 minutes | Makes Several Servings
+#### Prep Time: 5 minutes | Cook Time: 0 minutes | Makes Several Servings
 
 ## Ingredients
  
@@ -28,4 +28,4 @@ source: "grandma"
 3. **Add** more sugar to thicken, or add more milk to thin frosting, if needed
 
 
-*source: grandma's recipe, originally from Crisco*
+###### *source: grandma's recipe, originally from Crisco*

@@ -9,7 +9,7 @@ source: "mom"
 
 # Cabbage Strudel
 
-### Prep Time: 25 minutes | Cook Time: 35 minutes | Makes 8 Servings
+#### Prep Time: 25 minutes | Cook Time: 35 minutes | Makes 8 Servings
 
 ## Ingredients
  
@@ -37,4 +37,4 @@ source: "mom"
 6. **Slice** and serve warm
 
 
-*source: mom's recipe*
+###### *source: mom's recipe*

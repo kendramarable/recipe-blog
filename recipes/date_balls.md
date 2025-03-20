@@ -9,7 +9,7 @@ source: "grandma"
 
 # Date Balls
 
-### Prep Time: 20 minutes | Cook Time: 20 minutes | Makes 18 Servings
+#### Prep Time: 20 minutes | Cook Time: 20 minutes | Makes 18 Servings
 
 ## Ingredients
  
@@ -34,4 +34,4 @@ source: "grandma"
 5. **Shape** into balls and roll in coconut or confectioners sugar
 
 
-*source: grandma's recipe*
+###### *source: grandma's recipe*

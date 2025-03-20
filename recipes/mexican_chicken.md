@@ -9,7 +9,7 @@ source: "mom"
 
 # Mexican Chicken
 
-### Prep Time: 50 minutes | Cook Time: 40 minutes | Makes 4 Servings
+#### Prep Time: 50 minutes | Cook Time: 40 minutes | Makes 4 Servings
 
 ## Ingredients
  
@@ -57,4 +57,4 @@ source: "mom"
 14. **Serve** over rice with a green salad
 
 
-*source: mom's recipe, originally a printed recipe*
+###### *source: mom's recipe, originally a printed recipe*

@@ -9,7 +9,7 @@ source: "grandma"
 
 # Okra Rice Pilaf
 
-### Prep Time: 5 minutes | Cook Time: 45 minutes | Makes 4 Servings
+#### Prep Time: 5 minutes | Cook Time: 45 minutes | Makes 4 Servings
 
 ## Ingredients
  
@@ -42,4 +42,4 @@ source: "grandma"
 9. **Add** bacon before serving
 
 
-*source: grandma's recipe*
+###### *source: grandma's recipe*

@@ -9,7 +9,7 @@ source: "mom"
 
 # Glazed Ham Loaf
 
-### Prep Time: 20 minutes | Cook Time: 80 minutes | Makes 8 Servings
+#### Prep Time: 20 minutes | Cook Time: 80 minutes | Makes 8 Servings
 
 ## Ingredients
  
@@ -39,4 +39,4 @@ source: "mom"
 7. **Cook** at 350 degrees for 15-20 minutes longer
 
 
-*source: mom's recipe*
+###### *source: mom's recipe*

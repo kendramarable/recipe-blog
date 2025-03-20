@@ -9,7 +9,7 @@ source: "grandma"
 
 #  Mexi Hash
 
-### Prep Time: 10 minutes | Cook Time: 10 minutes | Makes 3 Servings
+#### Prep Time: 10 minutes | Cook Time: 10 minutes | Makes 3 Servings
 
 ## Ingredients
  
@@ -34,4 +34,4 @@ source: "grandma"
 5. **Heat** until steaming
 
 
-*source: grandma's recipe, originally from "Old El Paso Don Ramon's Fiesta Foods"*
+###### *source: grandma's recipe, originally from "Old El Paso Don Ramon's Fiesta Foods"*

@@ -9,7 +9,7 @@ source: "mom"
 
 # Beef Stir Fry With Mushrooms
 
-### Prep Time: 90 minutes | Cook Time: 25 minutes | Makes 4 Servings
+#### Prep Time: 90 minutes | Cook Time: 25 minutes | Makes 4 Servings
 
 ## Ingredients
  
@@ -63,4 +63,4 @@ source: "mom"
 18. **Serve** over rice
 
 
-*source: mom's recipe*
+###### *source: mom's recipe*

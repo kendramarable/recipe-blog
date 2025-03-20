@@ -9,7 +9,7 @@ source: "grandma"
 
 # Honey Candy Bites
 
-### Prep Time: 10 minutes | Cook Time: 10 minutes | Makes 42 Servings
+#### Prep Time: 10 minutes | Cook Time: 10 minutes | Makes 42 Servings
 
 ## Ingredients
  
@@ -37,4 +37,4 @@ source: "grandma"
 6. **Store** in refrigerator
 
 
-*source: grandma's recipe, originally from "The Idea Flour: Prize-Winning Bake-Off Recipes Streamlined, Shortcutted and Up-to-Dated for You, Today's Busy Housewife from Pillsbury"*
+###### *source: grandma's recipe, originally from "The Idea Flour: Prize-Winning Bake-Off Recipes Streamlined, Shortcutted and Up-to-Dated for You, Today's Busy Housewife from Pillsbury"*

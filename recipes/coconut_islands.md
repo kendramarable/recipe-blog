@@ -9,7 +9,7 @@ source: "grandma"
 
 # Coconut Islands
 
-### Prep Time: 25 minutes | Cook Time: 15 minutes | Makes 42 Servings
+#### Prep Time: 25 minutes | Cook Time: 15 minutes | Makes 42 Servings
 
 ## Ingredients: Cake
  
@@ -50,4 +50,4 @@ source: "grandma"
 2. **Blend** well, thinning with a few drops of additional sour cream if necessary
 
 
-*source: grandma's recipe, originally from "The Idea Flour: Prize-Winning Bake-Off Recipes Streamlined, Shortcutted and Up-to-Dated for You, Today's Busy Housewife from Pillsbury"*
+###### *source: grandma's recipe, originally from "The Idea Flour: Prize-Winning Bake-Off Recipes Streamlined, Shortcutted and Up-to-Dated for You, Today's Busy Housewife from Pillsbury"*

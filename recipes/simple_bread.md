@@ -9,7 +9,7 @@ source: "grandma"
 
 #  Simple Bread
 
-### Prep Time: 90 minutes | Cook Time: 40 minutes | Makes 20 Servings
+#### Prep Time: 90 minutes | Cook Time: 40 minutes | Makes 20 Servings
 
 ## Ingredients
  
@@ -56,4 +56,4 @@ source: "grandma"
 16. **Let cool** on wire rack
 
 
-*source: grandma's recipe, originally from "Pillsbury Blue Ribbon Recipes: The Idea Flour"*
+###### *source: grandma's recipe, originally from "Pillsbury Blue Ribbon Recipes: The Idea Flour"*

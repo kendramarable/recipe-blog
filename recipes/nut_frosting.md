@@ -9,7 +9,7 @@ source: "grandma"
 
 # Nut Frosting
 
-### Prep Time: 5 minutes | Cook Time: 0 minutes | Makes Several Servings
+#### Prep Time: 5 minutes | Cook Time: 0 minutes | Makes Several Servings
 
 ## Ingredients
  
@@ -30,4 +30,4 @@ source: "grandma"
 5. **Spread** on a cake
 
 
-*source: grandma's recipe*
+###### *source: grandma's recipe*

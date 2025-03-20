@@ -9,7 +9,7 @@ source: "grandma"
 
 #  Cheese Straws
 
-### Prep Time: 75 minutes | Cook Time: 15 minutes | Makes Several Servings
+#### Prep Time: 75 minutes | Cook Time: 15 minutes | Makes Several Servings
 
 ## Ingredients
  
@@ -38,4 +38,4 @@ source: "grandma"
 7. **Place** into cold oven, turn oven to 300 degrees, and bake for 10-15 minutes
 
 
-*source: grandma's recipe*
+###### *source: grandma's recipe*

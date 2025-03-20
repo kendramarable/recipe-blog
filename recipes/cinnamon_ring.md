@@ -9,7 +9,7 @@ source: "grandma"
 
 # Cinnamon Ring
 
-### Prep Time: 10 minutes | Cook Time: 30 minutes | Makes 24 Servings
+#### Prep Time: 10 minutes | Cook Time: 30 minutes | Makes 24 Servings
 
 ## Ingredients
  
@@ -35,4 +35,4 @@ source: "grandma"
 6. **Bake** at 350 degrees for 30 minutes
 
 
-*source: grandma's recipe*
+###### *source: grandma's recipe*

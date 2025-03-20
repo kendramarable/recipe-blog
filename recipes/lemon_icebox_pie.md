@@ -9,7 +9,7 @@ source: "mom"
 
 # Lemon Icebox Pie
 
-### Prep Time: 10 minutes | Cook Time: 0 minutes | Makes 8 Servings
+#### Prep Time: 10 minutes | Cook Time: 0 minutes | Makes 8 Servings
 
 ## Ingredients
  
@@ -32,4 +32,4 @@ source: "mom"
 5. **Chill** until firm
 
 
-*source: mom's recipe*
+###### *source: mom's recipe*

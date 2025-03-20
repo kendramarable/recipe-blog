@@ -9,7 +9,7 @@ source: "grandma"
 
 #  Mexe-Beans With Beef
 
-### Prep Time: 15 minutes | Cook Time: 20 minutes | Makes 4 Servings
+#### Prep Time: 15 minutes | Cook Time: 20 minutes | Makes 4 Servings
 
 ## Ingredients
  
@@ -32,4 +32,4 @@ source: "grandma"
 3. **Cook** over low heat for 20 minutes
 
 
-*source: grandma's recipe, originally from "Old El Paso Don Ramon's Fiesta Foods"*
+###### *source: grandma's recipe, originally from "Old El Paso Don Ramon's Fiesta Foods"*

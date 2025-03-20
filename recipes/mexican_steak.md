@@ -9,7 +9,7 @@ source: "grandma"
 
 # Mexican Steak
 
-### Prep Time: 20 minutes | Cook Time: 25 minutes | Makes 4 Servings
+#### Prep Time: 20 minutes | Cook Time: 25 minutes | Makes 4 Servings
 
 ## Ingredients
  
@@ -43,4 +43,4 @@ source: "grandma"
 7. **Add** red chili puree and simmer until vegetables are tender
 
 
-*source: grandma's recipe, originally from "Old El Paso Don Ramon Says Enjoy a Real Mexican Dinner at Home"*
+###### *source: grandma's recipe, originally from "Old El Paso Don Ramon Says Enjoy a Real Mexican Dinner at Home"*

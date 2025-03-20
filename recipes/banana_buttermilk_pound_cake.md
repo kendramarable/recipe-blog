@@ -9,7 +9,7 @@ source: "mom"
 
 # Banana Buttermilk Pound Cake
 
-### Prep Time: 15 minutes | Cook Time: 50 minutes | Makes 12 Servings
+#### Prep Time: 15 minutes | Cook Time: 50 minutes | Makes 12 Servings
 
 ## Ingredients: Cake
  
@@ -50,4 +50,4 @@ source: "mom"
 8. **Mix together** ingredients for the icing; drizzle on top of cake
 
 
-*source: mom's recipe*
+###### *source: mom's recipe*

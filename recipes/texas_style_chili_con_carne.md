@@ -9,7 +9,7 @@ source: "grandma"
 
 #  Texas Style Chili Con Carne
 
-### Prep Time: 15 minutes | Cook Time: 20 minutes | Makes 4 Servings
+#### Prep Time: 15 minutes | Cook Time: 20 minutes | Makes 4 Servings
 
 ## Ingredients
  
@@ -32,4 +32,4 @@ source: "grandma"
 3. **Cover and simmer** over low heat for 20 minutes
 
 
-*source: grandma's recipe, originally from "Old El Paso Main Course Meat Dishes"*
+###### *source: grandma's recipe, originally from "Old El Paso Main Course Meat Dishes"*

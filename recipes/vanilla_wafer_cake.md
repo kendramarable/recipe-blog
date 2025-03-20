@@ -9,7 +9,7 @@ source: "grandma"
 
 # Vanilla Wafer Cake
 
-### Prep Time: 10 minutes | Cook Time: 90 minutes | Makes 12 Servings
+#### Prep Time: 10 minutes | Cook Time: 90 minutes | Makes 12 Servings
 
 ## Ingredients: Cake
  
@@ -44,4 +44,4 @@ source: "grandma"
 2. **Boil** for 5 minutes, then let cool
 
 
-*source: grandma's recipe*
+###### *source: grandma's recipe*

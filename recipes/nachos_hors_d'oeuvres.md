@@ -9,7 +9,7 @@ source: "grandma"
 
 #  Nachos (Hors d'Oeuvres)
 
-### Prep Time: 10 minutes | Cook Time: 10 minutes | Makes 4 Servings
+#### Prep Time: 10 minutes | Cook Time: 10 minutes | Makes 4 Servings
 
 ## Ingredients
  
@@ -37,4 +37,4 @@ source: "grandma"
 7. **Season** with salt to taste
 
 
-*source: grandma's recipe, originally from "Old El Paso Don Ramon's Fiesta Foods"*
+###### *source: grandma's recipe, originally from "Old El Paso Don Ramon's Fiesta Foods"*

@@ -9,7 +9,7 @@ source: "mom"
 
 # Walnut Crescent Cookies
 
-### Prep Time: 50 minutes | Cook Time: 20 minutes | Makes 24 Servings
+#### Prep Time: 50 minutes | Cook Time: 20 minutes | Makes 24 Servings
 
 ## Ingredients
  
@@ -40,4 +40,4 @@ source: "mom"
 8. **Roll** in granulated sugar
 
 
-*source: mom's recipe, personal favorite*
+###### *source: mom's recipe, personal favorite*

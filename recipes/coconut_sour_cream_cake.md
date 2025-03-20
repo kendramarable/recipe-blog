@@ -9,7 +9,7 @@ source: "grandma"
 
 #  Coconut Sour Cream Cake
 
-### Prep Time: 10 minutes | Cook Time: 30 minutes | Makes 12 Servings
+#### Prep Time: 10 minutes | Cook Time: 30 minutes | Makes 12 Servings
 
 ## Ingredients: Cake
  
@@ -43,4 +43,4 @@ source: "grandma"
 
 3. **Ice** the cake, then sprinkle coconut on top
 
-*source: grandma's recipe*
+###### *source: grandma's recipe*

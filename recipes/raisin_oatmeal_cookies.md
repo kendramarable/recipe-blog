@@ -9,7 +9,7 @@ source: "grandma"
 
 # Raisin Oatmeal Cookies
 
-### Prep Time: 10 minutes | Cook Time: 12 minutes | Makes 20 Servings
+#### Prep Time: 10 minutes | Cook Time: 12 minutes | Makes 20 Servings
 
 ## Ingredients
  
@@ -43,4 +43,4 @@ source: "grandma"
 6. **Bake** at 400 degrees for 10 to 12 minutes
 
 
-*source: grandma's recipe*
+###### *source: grandma's recipe*

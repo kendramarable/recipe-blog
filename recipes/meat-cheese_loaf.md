@@ -9,7 +9,7 @@ source: "mom"
 
 # Meat-Cheese Loaf
 
-### Prep Time: 20 minutes | Cook Time: 30 minutes | Makes 6 Servings
+#### Prep Time: 20 minutes | Cook Time: 30 minutes | Makes 6 Servings
 
 ## Ingredients
  
@@ -38,4 +38,4 @@ source: "mom"
 8. **Slice** and serve
 
 
-*source: mom's recipe, originally from Marbeth*
+###### *source: mom's recipe, originally from Marbeth*

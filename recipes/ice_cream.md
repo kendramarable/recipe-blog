@@ -9,7 +9,7 @@ source: "grandma"
 
 # Ice Cream
 
-### Prep Time: 20 minutes | Cook Time: 20 minutes | Makes Several Servings
+#### Prep Time: 20 minutes | Cook Time: 20 minutes | Makes Several Servings
 
 ## Ingredients
  
@@ -41,4 +41,4 @@ source: "grandma"
 8. **Stir in** vanilla and chilled cream
 
 
-*source: grandma's recipe*
+###### *source: grandma's recipe*

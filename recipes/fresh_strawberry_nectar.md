@@ -9,7 +9,7 @@ source: "grandma"
 
 # Fresh Strawberry Nectar
 
-### Prep Time: 10 minutes | Cook Time: 0 minutes | Makes Several Servings
+#### Prep Time: 10 minutes | Cook Time: 0 minutes | Makes Several Servings
 
 ## Ingredients
  
@@ -39,4 +39,4 @@ source: "grandma"
 6. **Serve** over crushed ice and garnish with whole strawberries
 
 
-*source: grandma's recipe*
+###### *source: grandma's recipe*

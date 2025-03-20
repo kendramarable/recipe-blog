@@ -9,7 +9,7 @@ source: "grandma"
 
 # Orange Kiss-Me Cake
 
-### Prep Time: 10 minutes | Cook Time: 45 minutes | Makes 12 Servings
+#### Prep Time: 10 minutes | Cook Time: 45 minutes | Makes 12 Servings
 
 ## Ingredients: Cake
  
@@ -49,4 +49,4 @@ source: "grandma"
 8. **Combine** ingredients for topping in a small bowl and sprinkle over cake
 
 
-*source: grandma's recipe, originally from "The Idea Flour: Prize-Winning Bake-Off Recipes Streamlined, Shortcutted and Up-to-Dated for You, Today's Busy Housewife from Pillsbury"*
+###### *source: grandma's recipe, originally from "The Idea Flour: Prize-Winning Bake-Off Recipes Streamlined, Shortcutted and Up-to-Dated for You, Today's Busy Housewife from Pillsbury"*

@@ -9,7 +9,7 @@ source: "mom"
 
 # Ricotta Spinach Dip With Chips
 
-### Prep Time: 25 minutes | Cook Time: 0 minutes | Makes Several Servings
+#### Prep Time: 25 minutes | Cook Time: 0 minutes | Makes Several Servings
 
 ## Ingredients
  
@@ -40,4 +40,4 @@ source: "mom"
 7. **Serve** with chips, raw vegetables, or crackers
 
 
-*source: mom's recipe, originally from 1997 CompuCook: "Still Life with Menu by Mollie Katzen, 1988"*
+###### *source: mom's recipe, originally from 1997 CompuCook: "Still Life with Menu by Mollie Katzen, 1988"*

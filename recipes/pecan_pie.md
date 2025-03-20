@@ -9,7 +9,7 @@ source: "grandma"
 
 # Pecan Pie
 
-### Prep Time: 5 minutes | Cook Time: 70 minutes | Makes 8 Servings
+#### Prep Time: 5 minutes | Cook Time: 70 minutes | Makes 8 Servings
 
 ## Ingredients
  
@@ -30,4 +30,4 @@ source: "grandma"
 3. **Bake** at 350 degrees until firm, about 70 minutes
 
 
-*source: grandma's recipe*
+###### *source: grandma's recipe*

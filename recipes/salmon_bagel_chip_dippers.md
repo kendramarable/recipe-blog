@@ -9,7 +9,7 @@ source: "mom"
 
 # Salmon Bagel Chip Dippers
 
-### Prep Time: 15 minutes | Cook Time: 3 minutes | Makes 12 Servings
+#### Prep Time: 15 minutes | Cook Time: 3 minutes | Makes 12 Servings
 
 ## Ingredients
  
@@ -41,4 +41,4 @@ source: "mom"
 8. **Serve** warm or at room temperature
 
 
-*source: mom's recipe, originally from "Alaska School of Snacking"*
+###### *source: mom's recipe, originally from "Alaska School of Snacking"*

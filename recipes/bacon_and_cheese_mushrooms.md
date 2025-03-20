@@ -9,7 +9,7 @@ source: "mom"
 
 # Bacon & Cheese Mushrooms
 
-### Prep Time: 35 minutes | Cook Time: 15 minutes | Makes 4 Servings
+#### Prep Time: 35 minutes | Cook Time: 15 minutes | Makes 4 Servings
 
 ## Ingredients
  
@@ -52,4 +52,4 @@ source: "mom"
 13. **Serve** hot
 
 
-*source: mom's recipe, originally from 1997 CompuCook: "The Totally Mushroom Cookbook by Helene Siegel and Karen Gillingham, 1994"*
+###### *source: mom's recipe, originally from 1997 CompuCook: "The Totally Mushroom Cookbook by Helene Siegel and Karen Gillingham, 1994"*

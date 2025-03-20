@@ -9,7 +9,7 @@ source: "grandma"
 
 # Chili Meat
 
-### Prep Time: 20 minutes | Cook Time: 50 minutes | Makes 4 Servings
+#### Prep Time: 20 minutes | Cook Time: 50 minutes | Makes 4 Servings
 
 ## Ingredients
  
@@ -40,4 +40,4 @@ source: "grandma"
 6. **Simmer** about 20 minutes longer
 
 
-*source: grandma's recipe, originally from "Old El Paso Don Ramon Says Enjoy a Real Mexican Dinner at Home"*
+###### *source: grandma's recipe, originally from "Old El Paso Don Ramon Says Enjoy a Real Mexican Dinner at Home"*

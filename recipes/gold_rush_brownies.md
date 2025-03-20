@@ -9,7 +9,7 @@ source: "grandma"
 
 #  Gold Rush Brownies
 
-### Prep Time: 5 minutes | Cook Time: 40 minutes | Makes 16 Servings
+#### Prep Time: 5 minutes | Cook Time: 40 minutes | Makes 16 Servings
 
 ## Ingredients
  
@@ -29,4 +29,4 @@ source: "grandma"
 4. **Bake** at 350 degrees for 40 minutes, or until top is golden brown
 
 
-*source: grandma's recipe, originally from Borden*
+###### *source: grandma's recipe, originally from Borden*

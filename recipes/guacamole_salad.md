@@ -9,7 +9,7 @@ source: "grandma"
 
 # Chili Cornbread
 
-### Prep Time: 10 minutes | Cook Time: 0 minutes | Makes 4 Servings
+#### Prep Time: 10 minutes | Cook Time: 0 minutes | Makes 4 Servings
 
 ## Ingredients
  
@@ -32,4 +32,4 @@ source: "grandma"
 4. **Serve** on bed of lettuce with tostadas or corn chips
 
 
-*source: grandma's recipe, originally from "Old El Paso Salad Favorites"*
+###### *source: grandma's recipe, originally from "Old El Paso Salad Favorites"*

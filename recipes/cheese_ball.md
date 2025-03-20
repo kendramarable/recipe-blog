@@ -9,7 +9,7 @@ source: "mom"
 
 # Cheese Ball
 
-### Prep Time: 15 minutes | Cook Time: 0 minutes | Makes Several Servings
+#### Prep Time: 15 minutes | Cook Time: 0 minutes | Makes Several Servings
 
 ## Ingredients
  
@@ -34,4 +34,4 @@ source: "mom"
 4. **Press** chopped nuts into roll
 
 
-*source: mom's recipe*
+###### *source: mom's recipe*

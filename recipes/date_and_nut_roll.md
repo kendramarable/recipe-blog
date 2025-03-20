@@ -9,7 +9,7 @@ source: "grandma"
 
 #  Date and Nut Roll
 
-### Prep Time: 10 minutes | Cook Time: 0 minutes | Makes 10 Servings
+#### Prep Time: 10 minutes | Cook Time: 0 minutes | Makes 10 Servings
 
 ## Ingredients
  
@@ -34,4 +34,4 @@ source: "grandma"
 6. **Cut** in slices and garnish with whipped cream or hard sauce, if desired
 
 
-*source: grandma's recipe, originally from Borden*
+###### *source: grandma's recipe, originally from Borden*

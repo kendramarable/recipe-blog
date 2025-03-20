@@ -9,7 +9,7 @@ source: "grandma"
 
 #  Sausage and Bean Tacos
 
-### Prep Time: 5 minutes | Cook Time: 10 minutes | Makes 4 Servings
+#### Prep Time: 5 minutes | Cook Time: 10 minutes | Makes 4 Servings
 
 ## Ingredients
  
@@ -32,4 +32,4 @@ source: "grandma"
 5. **Top** with taco sauce
 
 
-*source: grandma's recipe, originally from "Old El Paso Recipes for Tacos"*
+###### *source: grandma's recipe, originally from "Old El Paso Recipes for Tacos"*

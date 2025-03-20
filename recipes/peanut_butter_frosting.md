@@ -9,7 +9,7 @@ source: "grandma"
 
 #  Peanut Butter Frosting
 
-### Prep Time: 5 minutes | Cook Time: 15 minutes | Makes Several Servings
+#### Prep Time: 5 minutes | Cook Time: 15 minutes | Makes Several Servings
 
 ## Ingredients
  
@@ -25,4 +25,4 @@ source: "grandma"
 3. **Let cool** and spread on top of a cold cake
 
 
-*source: grandma's recipe, originally from Borden*
+###### *source: grandma's recipe, originally from Borden*

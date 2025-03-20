@@ -9,7 +9,7 @@ source: "grandma"
 
 #  Green Enchiladas
 
-### Prep Time: 10 minutes | Cook Time: 10 minutes | Makes 4 Servings
+#### Prep Time: 10 minutes | Cook Time: 10 minutes | Makes 4 Servings
 
 ## Ingredients
  
@@ -52,4 +52,4 @@ source: "grandma"
 5. **Heat** at 350 degrees until hot and cheese is melted
 
 
-*source: grandma's recipe, originally from "Old El Paso Recipes for Enchiladas"*
+###### *source: grandma's recipe, originally from "Old El Paso Recipes for Enchiladas"*

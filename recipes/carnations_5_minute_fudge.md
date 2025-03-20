@@ -9,7 +9,7 @@ source: "grandma"
 
 # Carnation's 5 Minute Fudge
 
-### Prep Time: 5 minutes | Cook Time: 5 minutes | Makes 20 Servings
+#### Prep Time: 5 minutes | Cook Time: 5 minutes | Makes 20 Servings
 
 ## Ingredients
  
@@ -39,4 +39,4 @@ source: "grandma"
 7. **Cool**, then cut into squares
 
 
-*source: grandma's recipe, originally from "Holiday Fudge in 5 Minutes! No Beating! No Failures!"*
+###### *source: grandma's recipe, originally from "Holiday Fudge in 5 Minutes! No Beating! No Failures!"*

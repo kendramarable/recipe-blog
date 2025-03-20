@@ -9,7 +9,7 @@ source: "grandma"
 
 #  Lemon Meringue Pie
 
-### Prep Time: 10 minutes | Cook Time: 15 minutes | Makes 8 Servings
+#### Prep Time: 10 minutes | Cook Time: 15 minutes | Makes 8 Servings
 
 ## Ingredients
  
@@ -40,4 +40,4 @@ source: "grandma"
 8. **Cool** before serving
 
 
-*source: grandma's recipe, originally from Borden*
+###### *source: grandma's recipe, originally from Borden*

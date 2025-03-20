@@ -9,7 +9,7 @@ source: "grandma"
 
 #  Meat Enchiladas
 
-### Prep Time: 20 minutes | Cook Time: 10 minutes | Makes 4 Servings
+#### Prep Time: 20 minutes | Cook Time: 10 minutes | Makes 4 Servings
 
 ## Ingredients
  
@@ -32,4 +32,4 @@ source: "grandma"
 4. **Heat** in oven at 350 degrees until hot and cheese is melted
 
 
-*source: grandma's recipe, originally from "Old El Paso Recipes for Enchiladas"*
+###### *source: grandma's recipe, originally from "Old El Paso Recipes for Enchiladas"*

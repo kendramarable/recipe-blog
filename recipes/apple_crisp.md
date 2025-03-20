@@ -9,7 +9,7 @@ source: "mom"
 
 # Apple Crisp
 
-### Prep Time: 15 minutes | Cook Time: 50 minutes | Makes 6 Servings
+#### Prep Time: 15 minutes | Cook Time: 50 minutes | Makes 6 Servings
 
 ## Ingredients
  
@@ -34,4 +34,4 @@ source: "mom"
 6. **Bake** at 350 degrees until crispy, about 40-50 minutes
 
 
-*source: mom's recipe*
+###### *source: mom's recipe*

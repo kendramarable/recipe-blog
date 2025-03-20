@@ -9,7 +9,7 @@ source: "mom"
 
 # Stuffed Crab
 
-### Prep Time: 60 minutes | Cook Time: 30 minutes | Makes 5 Servings
+#### Prep Time: 60 minutes | Cook Time: 30 minutes | Makes 5 Servings
 
 ## Ingredients
  
@@ -38,4 +38,4 @@ source: "mom"
 7. **Bake** at 350 degrees until golden brown, about 30 minutes
 
 
-*source: mom's recipe, originally a printed recipe*
+###### *source: mom's recipe, originally a printed recipe*

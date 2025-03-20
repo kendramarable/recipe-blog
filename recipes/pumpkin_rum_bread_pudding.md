@@ -9,7 +9,7 @@ source: "grandma"
 
 #  Pumpkin Rum Bread Pudding
 
-### Prep Time: 10 minutes | Cook Time: 60 minutes | Makes 16 Servings
+#### Prep Time: 10 minutes | Cook Time: 60 minutes | Makes 16 Servings
 
 ## Ingredients
  
@@ -46,4 +46,4 @@ source: "grandma"
 8. **Serve** with whipped cream
 
 
-*source: grandma's recipe*
+###### *source: grandma's recipe*

@@ -9,7 +9,7 @@ source: "mom"
 
 # Oatmeal Cookies
 
-### Prep Time: 15 minutes | Cook Time: 15 minutes | Makes 30 Servings
+#### Prep Time: 15 minutes | Cook Time: 15 minutes | Makes 30 Servings
 
 ## Ingredients
  
@@ -39,4 +39,4 @@ source: "mom"
 6. **Bake** at 350 degrees until browned, about 10-15 minutes
 
 
-*source: mom's recipe*
+###### *source: mom's recipe*

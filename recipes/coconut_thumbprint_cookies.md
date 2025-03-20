@@ -9,7 +9,7 @@ source: "grandma"
 
 # Coconut Thumbprint Cookies
 
-### Prep Time: 30 minutes | Cook Time: 20 minutes | Makes Several Servings
+#### Prep Time: 30 minutes | Cook Time: 20 minutes | Makes Several Servings
 
 ## Ingredients
  
@@ -54,4 +54,4 @@ source: "grandma"
 15. **Sprinkle** with additional coconut, if desired
 
 
-*source: grandma's recipe, originally from Baker's chocolate*
+###### *source: grandma's recipe, originally from Baker's chocolate*

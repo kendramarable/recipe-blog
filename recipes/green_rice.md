@@ -9,7 +9,7 @@ source: "grandma"
 
 # Green Rice
 
-### Prep Time: 50 minutes | Cook Time: 40 minutes | Makes 10 Servings
+#### Prep Time: 50 minutes | Cook Time: 40 minutes | Makes 10 Servings
 
 ## Ingredients
  
@@ -31,4 +31,4 @@ source: "grandma"
 2. **Bake** at 350 degrees for 40 minutes
 
 
-*source: grandma's recipe, originally from "Old El Paso Mexican Food Favorites"*
+###### *source: grandma's recipe, originally from "Old El Paso Mexican Food Favorites"*

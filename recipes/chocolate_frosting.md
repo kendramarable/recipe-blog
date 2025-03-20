@@ -9,7 +9,7 @@ source: "grandma"
 
 # Chocolate Frosting
 
-### Prep Time: 10 minutes | Cook Time: 0 minutes | Makes Several Servings
+#### Prep Time: 10 minutes | Cook Time: 0 minutes | Makes Several Servings
 
 ## Ingredients
  
@@ -35,4 +35,4 @@ source: "grandma"
 6. **Mix** at medium speed until smooth and creamy
 
 
-*source: grandma's recipe, originally from Crisco*
+###### *source: grandma's recipe, originally from Crisco*

@@ -9,7 +9,7 @@ source: "mom"
 
 # Chicken Divan Pot Pie
 
-### Prep Time: 30 minutes | Cook Time: 35 minutes | Makes 6 Servings
+#### Prep Time: 30 minutes | Cook Time: 35 minutes | Makes 6 Servings
 
 ## Ingredients
  
@@ -52,4 +52,4 @@ source: "mom"
 13. **Bake** at 425 degrees for 30-35 minutes, or until crust is brown and filling is bubbly
 
 
-*source: mom's recipe, originally from Pet-Ritz*
+###### *source: mom's recipe, originally from Pet-Ritz*

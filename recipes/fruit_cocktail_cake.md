@@ -9,7 +9,7 @@ source: "grandma"
 
 # Fruit Cocktail Cake
 
-### Prep Time: 10 minutes | Cook Time: 45 minutes | Makes 8 Servings
+#### Prep Time: 10 minutes | Cook Time: 45 minutes | Makes 8 Servings
 
 ## Ingredients
 
@@ -50,4 +50,4 @@ source: "grandma"
 3. **Sprinkle** the coconut flakes on top
 
 
-*source: grandma's recipe*
+###### *source: grandma's recipe*

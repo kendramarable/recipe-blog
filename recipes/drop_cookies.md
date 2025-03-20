@@ -9,7 +9,7 @@ source: "grandma"
 
 # Drop Cookies
 
-### Prep Time: 5 minutes | Cook Time: 15 minutes | Makes 24 Servings
+#### Prep Time: 5 minutes | Cook Time: 15 minutes | Makes 24 Servings
 
 ## Ingredients
  
@@ -31,4 +31,4 @@ source: "grandma"
 5. **Bake** at 375 degrees for 12-15 minutes
 
 
-*source: grandma's recipe*
+###### *source: grandma's recipe*

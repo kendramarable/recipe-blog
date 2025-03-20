@@ -9,7 +9,7 @@ source: "grandma"
 
 #  Peach Jubilee Pie
 
-### Prep Time: 25 minutes | Cook Time: 0 minutes | Makes 8 Servings
+#### Prep Time: 25 minutes | Cook Time: 0 minutes | Makes 8 Servings
 
 ## Ingredients
  
@@ -42,4 +42,4 @@ source: "grandma"
 8. **Chill** until firm, about 2 hours
 
 
-*source: grandma's recipe, originally from Crisco*
+###### *source: grandma's recipe, originally from Crisco*

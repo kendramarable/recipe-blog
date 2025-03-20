@@ -9,7 +9,7 @@ source: "mom"
 
 # Gorilla Bread
 
-### Prep Time: 15 minutes | Cook Time: 60 minutes | Makes 10 Servings
+#### Prep Time: 15 minutes | Cook Time: 60 minutes | Makes 10 Servings
 
 ## Ingredients
  
@@ -47,4 +47,4 @@ source: "mom"
 12. **Bake** at 350 degrees for about 30 minutes
 
 
-*source: mom's recipe, personal favorite*
+###### *source: mom's recipe, personal favorite*

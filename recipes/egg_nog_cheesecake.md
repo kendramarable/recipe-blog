@@ -9,7 +9,7 @@ source: "mom"
 
 # Egg Nog Cheesecake
 
-### Prep Time: 35 minutes | Cook Time: 0 minutes | Makes 12 Servings
+#### Prep Time: 35 minutes | Cook Time: 0 minutes | Makes 12 Servings
 
 ## Ingredients
  
@@ -53,4 +53,4 @@ source: "mom"
 13. **Garnish** with whipped cream
 
 
-*source: mom's recipe*
+###### *source: mom's recipe*

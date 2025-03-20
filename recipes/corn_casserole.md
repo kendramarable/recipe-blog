@@ -9,7 +9,7 @@ source: "mom"
 
 # Corn Casserole
 
-### Prep Time: 10 minutes | Cook Time: 50 minutes | Makes 5 Servings
+#### Prep Time: 10 minutes | Cook Time: 50 minutes | Makes 5 Servings
 
 ## Ingredients
  
@@ -33,4 +33,4 @@ source: "mom"
 3. **Bake** at 350 degrees for 50 minutes, or until firm
 
 
-*source: mom's recipe*
+###### *source: mom's recipe*

@@ -9,7 +9,7 @@ source: "mom"
 
 # Meatloaf and Sauce
 
-### Prep Time: 25 minutes | Cook Time: 60 minutes | Makes 5 Servings
+#### Prep Time: 25 minutes | Cook Time: 60 minutes | Makes 5 Servings
 
 ## Ingredients: Meatloaf
  
@@ -44,4 +44,4 @@ source: "mom"
 5. **Bake** at 325 degrees for 1 hour
 
 
-*source: mom's recipe, personal favorite*
+###### *source: mom's recipe, personal favorite*

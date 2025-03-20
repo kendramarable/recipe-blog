@@ -9,7 +9,7 @@ source: "grandma"
 
 #  Chicken Tacos
 
-### Prep Time: 15 minutes | Cook Time: 15 minutes | Makes 4 Servings
+#### Prep Time: 15 minutes | Cook Time: 15 minutes | Makes 4 Servings
 
 ## Ingredients
  
@@ -38,4 +38,4 @@ source: "grandma"
 6. **Spoon** taco sauce over cheese
 
 
-*source: grandma's recipe, originally from "Old El Paso Recipes for Tacos"*
+###### *source: grandma's recipe, originally from "Old El Paso Recipes for Tacos"*

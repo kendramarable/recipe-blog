@@ -9,7 +9,7 @@ source: "grandma"
 
 # Southern Eggnog
 
-### Prep Time: 15 minutes | Cook Time: 0 minutes | Makes Several Servings
+#### Prep Time: 15 minutes | Cook Time: 0 minutes | Makes Several Servings
 
 ## Ingredients
  
@@ -40,4 +40,4 @@ source: "grandma"
 8. **Optional**: to thin, add 1 ½ cups of milk, rum, or brandy
 
 
-*source: grandma's recipe*
+###### *source: grandma's recipe*

@@ -9,7 +9,7 @@ source: "grandma"
 
 # Date Squares
 
-### Prep Time: 15 minutes | Cook Time: 30 minutes | Makes 12 Servings
+#### Prep Time: 15 minutes | Cook Time: 30 minutes | Makes 12 Servings
 
 ## Ingredients
  
@@ -46,4 +46,4 @@ source: "grandma"
 9. **Sprinkle with or roll in** confectioners sugar, if desired
 
 
-*source: grandma's recipe, originally from Baker's chocolate*
+###### *source: grandma's recipe, originally from Baker's chocolate*

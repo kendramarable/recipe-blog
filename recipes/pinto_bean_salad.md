@@ -9,7 +9,7 @@ source: "grandma"
 
 # Pinto Bean Salad
 
-### Prep Time: 5 minutes | Cook Time: 0 minutes | Makes 4 Servings
+#### Prep Time: 5 minutes | Cook Time: 0 minutes | Makes 4 Servings
 
 ## Ingredients
  
@@ -30,4 +30,4 @@ source: "grandma"
 3. **Serve** on bed of lettuce
 
 
-*source: grandma's recipe, originally from "Old El Paso Salad Favorites"*
+###### *source: grandma's recipe, originally from "Old El Paso Salad Favorites"*

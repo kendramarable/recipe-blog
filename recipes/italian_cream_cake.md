@@ -9,7 +9,7 @@ source: "mom"
 
 # Italian Cream Cake
 
-### Prep Time: 60 minutes | Cook Time: 25 minutes | Makes 20 Servings
+#### Prep Time: 60 minutes | Cook Time: 25 minutes | Makes 20 Servings
 
 ## Ingredients: Cake
  
@@ -94,4 +94,4 @@ source: "mom"
 6. **Cover** and chill to be used on cake
 
 
-*source: mom's recipe, originally from "A Trim and Terrific Louisiana Kitchen", personal favorite*
+###### *source: mom's recipe, originally from "A Trim and Terrific Louisiana Kitchen", personal favorite*

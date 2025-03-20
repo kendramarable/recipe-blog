@@ -9,7 +9,7 @@ source: "mom"
 
 # Baked Beans
 
-### Prep Time: 5 minutes | Cook Time: 30 minutes | Makes 4 Servings
+#### Prep Time: 5 minutes | Cook Time: 30 minutes | Makes 4 Servings
 
 ## Ingredients
  
@@ -29,4 +29,4 @@ source: "mom"
 3. **Bake** at 350 degrees for 30 minutes
 
 
-*source: mom's recipe*
+###### *source: mom's recipe*

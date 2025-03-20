@@ -9,7 +9,7 @@ source: "mom"
 
 # Zippy Sauce
 
-### Prep Time: 5 minutes | Cook Time: 0 minutes | Makes Several Servings
+#### Prep Time: 5 minutes | Cook Time: 0 minutes | Makes Several Servings
 
 ## Ingredients
  
@@ -23,4 +23,4 @@ source: "mom"
 1. **Mix** all ingredients
 
 
-*source: mom's recipe*
+###### *source: mom's recipe*

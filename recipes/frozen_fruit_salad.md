@@ -9,7 +9,7 @@ source: "grandma"
 
 #  Frozen Fruit Salad
 
-### Prep Time: 45 minutes | Cook Time: 0 minutes | Makes Several Servings
+#### Prep Time: 45 minutes | Cook Time: 0 minutes | Makes Several Servings
 
 ## Ingredients
  
@@ -56,4 +56,4 @@ source: "grandma"
 12. **Thaw and serve** by cutting into 1-inch slices and serving salad on lettuce, garnishing with cherries
 
 
-*source: grandma's recipe, originally from "Salad for 6 to 60"*
+###### *source: grandma's recipe, originally from "Salad for 6 to 60"*

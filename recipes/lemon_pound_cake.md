@@ -9,7 +9,7 @@ source: "mom"
 
 # Lemon Pound Cake
 
-### Prep Time: 30 minutes | Cook Time: 60 minutes | Makes 12 Servings
+#### Prep Time: 30 minutes | Cook Time: 60 minutes | Makes 12 Servings
 
 ## Ingredients
  
@@ -41,4 +41,5 @@ source: "mom"
 
 9. **Heat** frosting in small saucepan over medium heat, stirring constantly, until thin (or microwave on high for 10-15 seconds); drizzle onto cake
 
-*source: mom's recipe, originally from Duncan Hines*
+
+###### *source: mom's recipe, originally from Duncan Hines*

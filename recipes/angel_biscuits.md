@@ -9,7 +9,7 @@ source: "mom"
 
 # Angel Biscuits
 
-### Prep Time: 20 minutes | Cook Time: 20 minutes | Makes 24 Servings
+#### Prep Time: 20 minutes | Cook Time: 20 minutes | Makes 24 Servings
 
 ## Ingredients
  
@@ -42,4 +42,4 @@ source: "mom"
 8. **Note:** unused dough may be stored in refrigerator
 
 
-*source: mom's recipe*
+###### *source: mom's recipe*

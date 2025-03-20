@@ -9,7 +9,7 @@ source: "grandma"
 
 # Chilaquiles Casserole
 
-### Prep Time: 40 minutes | Cook Time: 45 minutes | Makes 8 Servings
+#### Prep Time: 40 minutes | Cook Time: 45 minutes | Makes 8 Servings
 
 ## Ingredients
  
@@ -35,4 +35,4 @@ source: "grandma"
 4. **Bake** at 350 degrees for 30 to 45 minutes
 
 
-*source: grandma's recipe, originally from "Casseroles from Old El Paso"*
+###### *source: grandma's recipe, originally from "Casseroles from Old El Paso"*

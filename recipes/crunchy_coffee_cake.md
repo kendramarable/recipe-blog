@@ -9,7 +9,7 @@ source: "grandma"
 
 #  Crunchy Coffee Cake
 
-### Prep Time: 15 minutes | Cook Time: 40 minutes | Makes 16 Servings
+#### Prep Time: 15 minutes | Cook Time: 40 minutes | Makes 16 Servings
 
 ## Ingredients: Cake
  
@@ -56,4 +56,4 @@ source: "grandma"
 4. **Chill** until ready to use
 
 
-*source: grandma's recipe, originally from "Seamless Cake and Biscuits, Easy to Clean, No Dirt Catchers"*
+###### *source: grandma's recipe, originally from "Seamless Cake and Biscuits, Easy to Clean, No Dirt Catchers"*

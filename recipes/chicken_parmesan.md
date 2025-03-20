@@ -9,7 +9,7 @@ source: "mom"
 
 # Chicken Parmesan
 
-### Prep Time: 35 minutes | Cook Time: 6 minutes | Makes 6 Servings
+#### Prep Time: 35 minutes | Cook Time: 6 minutes | Makes 6 Servings
 
 ## Ingredients
  
@@ -56,4 +56,4 @@ source: "mom"
 14. **Garnish** with basil or parsley
 
 
-*source: mom's recipe, originally a printed recipe*
+###### *source: mom's recipe, originally a printed recipe*

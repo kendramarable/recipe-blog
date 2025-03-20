@@ -9,7 +9,7 @@ source: "grandma"
 
 #  White Lily "Light" Biscuits
 
-### Prep Time: 15 minutes | Cook Time: 10 minutes | Makes 12 Servings
+#### Prep Time: 15 minutes | Cook Time: 10 minutes | Makes 12 Servings
 
 ## Ingredients
  
@@ -35,4 +35,4 @@ source: "grandma"
 7. **Bake** on ungreased baking sheet at 500 degrees for 10 minutes
 
 
-*source: grandma's recipe, originally from White Lily*
+###### *source: grandma's recipe, originally from White Lily*

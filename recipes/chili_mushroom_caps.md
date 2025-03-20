@@ -9,7 +9,7 @@ source: "mom"
 
 # Chili Mushroom Caps
 
-### Prep Time: 50 minutes | Cook Time: 10 minutes | Makes 6 Servings
+#### Prep Time: 50 minutes | Cook Time: 10 minutes | Makes 6 Servings
 
 ## Ingredients
  
@@ -58,4 +58,4 @@ source: "mom"
 16. **Bake** in oven at 350 degrees for 10 minutes, or until cheese is melted
 
 
-*source: mom's recipe, originally a printed recipe*
+###### *source: mom's recipe, originally a printed recipe*

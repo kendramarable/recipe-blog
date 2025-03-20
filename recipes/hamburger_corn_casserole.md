@@ -9,7 +9,7 @@ source: "mom"
 
 # Hamburger Corn Casserole
 
-### Prep Time: 35 minutes | Cook Time: 45 minutes | Makes 8 Servings
+#### Prep Time: 35 minutes | Cook Time: 45 minutes | Makes 8 Servings
 
 ## Ingredients
  
@@ -43,7 +43,6 @@ source: "mom"
 9. **Top** with buttered bread crumbs
 
 10. **Bake** at 350 degrees until done, about 35-45 minutes
- 
 
 
-*source: mom's recipe, originally from Peggy*
+###### *source: mom's recipe, originally from Peggy*

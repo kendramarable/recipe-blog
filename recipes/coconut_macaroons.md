@@ -9,7 +9,7 @@ source: "grandma"
 
 #  Coconut Macaroons
 
-### Prep Time: 5 minutes | Cook Time: 10 minutes | Makes 30 Servings
+#### Prep Time: 5 minutes | Cook Time: 10 minutes | Makes 30 Servings
 
 ## Ingredients
  
@@ -28,4 +28,4 @@ source: "grandma"
 4. **Remove** from baking sheet at once
 
 
-*source: grandma's recipe, originally from Borden*
+###### *source: grandma's recipe, originally from Borden*

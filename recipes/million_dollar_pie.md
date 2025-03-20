@@ -9,7 +9,7 @@ source: "mom"
 
 # Million Dollar Pie
 
-### Prep Time: 15 minutes | Cook Time: 0 minutes | Makes 16 Servings
+#### Prep Time: 15 minutes | Cook Time: 0 minutes | Makes 16 Servings
 
 ## Ingredients
  
@@ -36,5 +36,4 @@ source: "mom"
 5. **Chill** before serving
  
 
-
-*source: mom's recipe*
+###### *source: mom's recipe*

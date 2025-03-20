@@ -49,7 +49,7 @@ export default async function RecipeBlogpost(props: RecipeBlogpostProps) {
         )}>
             <article 
                 className={cn(
-                    "w-[850px] rounded-base shadow-shadow border-2 border-border bg-main text-mtext",
+                    "w-[850px] rounded-base shadow-shadow border-2 border-border bg-main",
             )}>
                 <Markdown>{blogpost.content}</Markdown>
             </article>

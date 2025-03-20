@@ -9,7 +9,7 @@ source: "mom"
 
 # Asian Chicken Salad
 
-### Prep Time: 35 minutes | Cook Time: 0 minutes | Makes 4 Servings
+#### Prep Time: 35 minutes | Cook Time: 0 minutes | Makes 4 Servings
 
 ## Ingredients
  
@@ -32,4 +32,4 @@ source: "mom"
 3. **Toast** almonds and ramen noodles crunched up; add when serving
 
 
-*source: mom's recipe*
+###### *source: mom's recipe*

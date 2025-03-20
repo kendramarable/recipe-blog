@@ -9,7 +9,7 @@ source: "mom"
 
 # Lasagna
 
-### Prep Time: 30 minutes | Cook Time: 40 minutes | Makes 8 Servings
+#### Prep Time: 30 minutes | Cook Time: 40 minutes | Makes 8 Servings
 
 ## Ingredients
  
@@ -40,4 +40,4 @@ source: "mom"
 8. **Bake** in oven at 400 degrees for 30-40 minutes, or until bubbly and brown
 
 
-*source: mom's recipe, originally from Claudette*
+###### *source: mom's recipe, originally from Claudette*

@@ -9,7 +9,7 @@ source: "grandma"
 
 # Double Pistachio Cake
 
-### Prep Time: 10 minutes | Cook Time: 50 minutes | Makes 12 Servings
+#### Prep Time: 10 minutes | Cook Time: 50 minutes | Makes 12 Servings
 
 ## Ingredients
 
@@ -32,4 +32,4 @@ source: "grandma"
 4. **Bake** at 350 degrees for 50 minutes
 
 
-*source: grandma's recipe*
+###### *source: grandma's recipe*

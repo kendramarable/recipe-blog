@@ -9,7 +9,7 @@ source: "mom"
 
 # Salmon-Pesto Focaccia Sandwiches
 
-### Prep Time: 30 minutes | Cook Time: 0 minutes | Makes 4 Servings
+#### Prep Time: 30 minutes | Cook Time: 0 minutes | Makes 4 Servings
 
 ## Ingredients
  
@@ -42,4 +42,4 @@ source: "mom"
 8. **Serve** immediately, or cover with plastic wrap and refrigerate up to 6 hours before serving
 
 
-*source: mom's recipe, originally from "Alaska School of Snacking"*
+###### *source: mom's recipe, originally from "Alaska School of Snacking"*

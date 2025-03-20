@@ -9,7 +9,7 @@ source: "mom"
 
 # Creamy Squash Casserole
 
-### Prep Time: 30 minutes | Cook Time: 30 minutes | Makes 8 Servings
+#### Prep Time: 30 minutes | Cook Time: 30 minutes | Makes 8 Servings
 
 ## Ingredients
  
@@ -42,4 +42,4 @@ source: "mom"
 8. **Bake** at 350 degrees for 30 minutes
 
 
-*source: mom's recipe*
+###### *source: mom's recipe*

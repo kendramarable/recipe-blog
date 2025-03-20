@@ -9,7 +9,7 @@ source: "mom"
 
 # Apple Rum Raisin Pie
 
-### Prep Time: 15 minutes | Cook Time: 55 minutes | Makes 8 Servings
+#### Prep Time: 15 minutes | Cook Time: 55 minutes | Makes 8 Servings
 
 ## Ingredients: Crust
  
@@ -70,4 +70,4 @@ source: "mom"
 7. **Serve** at room temperature
 
 
-*source: mom's recipe*
+###### *source: mom's recipe*

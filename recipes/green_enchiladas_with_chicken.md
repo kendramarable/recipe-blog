@@ -9,7 +9,7 @@ source: "grandma"
 
 #  Green Enchiladas with Chicken
 
-### Prep Time: 35 minutes | Cook Time: 30 minutes | Makes 4 Servings
+#### Prep Time: 35 minutes | Cook Time: 30 minutes | Makes 4 Servings
 
 ## Ingredients
  
@@ -46,4 +46,4 @@ source: "grandma"
 10. **Place** platter with 4 stacks of enchiladas in oven at 350 degrees for 30 minutes
 
 
-*source: grandma's recipe, originally from "Old El Paso Recipes for Enchiladas"*
+###### *source: grandma's recipe, originally from "Old El Paso Recipes for Enchiladas"*

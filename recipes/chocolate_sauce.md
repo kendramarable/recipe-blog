@@ -9,7 +9,7 @@ source: "grandma"
 
 #  Chocolate Sauce
 
-### Prep Time: 5 minutes | Cook Time: 10 minutes | Makes Several Servings
+#### Prep Time: 5 minutes | Cook Time: 10 minutes | Makes Several Servings
 
 ## Ingredients
  
@@ -34,4 +34,4 @@ source: "grandma"
 6. **Serve** with ice cream, cake, or pudding
 
 
-*source: grandma's recipe, originally from Borden*
+###### *source: grandma's recipe, originally from Borden*

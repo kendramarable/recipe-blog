@@ -9,7 +9,7 @@ source: "grandma"
 
 # Tamale Pie Casserole
 
-### Prep Time: 25 minutes | Cook Time: 15 minutes | Makes 8 Servings
+#### Prep Time: 25 minutes | Cook Time: 15 minutes | Makes 8 Servings
 
 ## Ingredients
  
@@ -41,4 +41,4 @@ source: "grandma"
 8. **Bake** for 15 minutes
 
 
-*source: grandma's recipe, originally from "Casseroles from Old El Paso"*
+###### *source: grandma's recipe, originally from "Casseroles from Old El Paso"*

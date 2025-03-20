@@ -9,7 +9,7 @@ source: "grandma"
 
 # Caldillo
 
-### Prep Time: 20 minutes | Cook Time: 110 minutes | Makes 8 Servings
+#### Prep Time: 20 minutes | Cook Time: 110 minutes | Makes 8 Servings
 
 ## Ingredients
  
@@ -36,4 +36,4 @@ source: "grandma"
 4. **Add** the green chili, cut in large pieces, to the stew, and let simmer another 20 minutes
 
 
-*source: grandma's recipe, originally from "Old El Paso Don Ramon Says Enjoy a Real Mexican Dinner at Home"*
+###### *source: grandma's recipe, originally from "Old El Paso Don Ramon Says Enjoy a Real Mexican Dinner at Home"*

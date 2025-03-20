@@ -9,7 +9,7 @@ source: "grandma"
 
 #  No-Knead Dough
 
-### Prep Time: 90 minutes | Cook Time: 15 minutes | Makes 16-24 Servings
+#### Prep Time: 90 minutes | Cook Time: 15 minutes | Makes 16-24 Servings
 
 ## Ingredients
  
@@ -51,4 +51,4 @@ source: "grandma"
 14. **Serve** hot
 
 
-*source: grandma's recipe, originally from "Pillsbury Blue Ribbon Recipes: The Idea Flour"*
+###### *source: grandma's recipe, originally from "Pillsbury Blue Ribbon Recipes: The Idea Flour"*

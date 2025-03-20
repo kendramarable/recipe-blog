@@ -9,7 +9,7 @@ source: "grandma"
 
 # Huevos Rancheros (Mexican Eggs)
 
-### Prep Time: 10 minutes | Cook Time: 20 minutes | Makes 4 Servings
+#### Prep Time: 10 minutes | Cook Time: 20 minutes | Makes 4 Servings
 
 ## Ingredients
  
@@ -38,4 +38,4 @@ source: "grandma"
 6. **Fry** eggs and place on top of tortilla stacks; cover with more sauce
 
 
-*source: grandma's recipe, originally from "Old El Paso Mexican Food Favorites"*
+###### *source: grandma's recipe, originally from "Old El Paso Mexican Food Favorites"*

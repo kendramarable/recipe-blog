@@ -9,7 +9,7 @@ source: "grandma"
 
 #  Peanut Butter Cookies
 
-### Prep Time: 10 minutes | Cook Time: 15 minutes | Makes 24 Servings
+#### Prep Time: 10 minutes | Cook Time: 15 minutes | Makes 24 Servings
 
 ## Ingredients
  
@@ -47,4 +47,4 @@ source: "grandma"
 10. **Bake** at 375 degrees for 12-15 minutes
 
 
-*source: grandma's recipe*
+###### *source: grandma's recipe*

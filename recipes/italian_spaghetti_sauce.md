@@ -9,7 +9,7 @@ source: "mom"
 
 # Italian Spaghetti Sauce
 
-### Prep Time: 25 minutes | Cook Time: 120 minutes | Makes Several Servings
+#### Prep Time: 25 minutes | Cook Time: 120 minutes | Makes Several Servings
 
 ## Ingredients
  
@@ -45,4 +45,4 @@ source: "mom"
 6. **Simmer** uncovered for two hours, or until cooked down thick
 
 
-*source: mom's recipe, originally from Claudette*
+###### *source: mom's recipe, originally from Claudette*

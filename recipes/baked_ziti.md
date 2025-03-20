@@ -9,7 +9,7 @@ source: "mom"
 
 # Baked Ziti
 
-### Prep Time: 15 minutes | Cook Time: 20 minutes | Makes 6 Servings
+#### Prep Time: 15 minutes | Cook Time: 20 minutes | Makes 6 Servings
 
 ## Ingredients
  
@@ -35,4 +35,4 @@ source: "mom"
 6. **Bake** at 350 degrees until bubbly and browned, about 20 minutes
 
 
-*source: mom's recipe*
+###### *source: mom's recipe*

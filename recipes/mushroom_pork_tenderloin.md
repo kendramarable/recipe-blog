@@ -9,7 +9,7 @@ source: "mom"
 
 # Mushroom Pork Tenderloin
 
-### Prep Time: 20 minutes | Cook Time: 20 minutes | Makes 4 Servings
+#### Prep Time: 20 minutes | Cook Time: 20 minutes | Makes 4 Servings
 
 ## Ingredients
  
@@ -48,4 +48,4 @@ source: "mom"
 12. **Cook** for 4-6 minutes until sauce thickens and internal temperature of pork slices reaches 150 degrees
 
 
-*source: mom's recipe, originally from Apron's*
+###### *source: mom's recipe, originally from Apron's*

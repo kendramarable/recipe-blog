@@ -9,7 +9,7 @@ source: "grandma"
 
 # Rocky Road Fudge
 
-### Prep Time: 30 minutes | Cook Time: 0 minutes | Makes 20 Servings
+#### Prep Time: 30 minutes | Cook Time: 0 minutes | Makes 20 Servings
 
 ## Ingredients
  
@@ -46,4 +46,4 @@ source: "grandma"
 10. **Store** covered in a cool place
 
 
-*source: grandma's recipe, originally from Baker's chocolate*
+###### *source: grandma's recipe, originally from Baker's chocolate*

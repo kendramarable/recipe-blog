@@ -9,7 +9,7 @@ source: "grandma"
 
 #  Zesty Meat Loaf
 
-### Prep Time: 10 minutes | Cook Time: 60 minutes | Makes 4 Servings
+#### Prep Time: 10 minutes | Cook Time: 60 minutes | Makes 4 Servings
 
 ## Ingredients
  
@@ -30,4 +30,4 @@ source: "grandma"
 4. **Bake** for 1 hour
 
 
-*source: grandma's recipe, originally from "Old El Paso Don Ramon's Fiesta Foods"*
+###### *source: grandma's recipe, originally from "Old El Paso Don Ramon's Fiesta Foods"*

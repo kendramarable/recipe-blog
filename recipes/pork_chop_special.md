@@ -9,7 +9,7 @@ source: "mom"
 
 # Pork Chop Special
 
-### Prep Time: 25 minutes | Cook Time: 40 minutes | Makes 4 Servings
+#### Prep Time: 25 minutes | Cook Time: 40 minutes | Makes 4 Servings
 
 ## Ingredients
  
@@ -45,4 +45,4 @@ source: "mom"
 9. **Cover** and simmer for 40 minutes
 
 
-*source: mom's recipe*
+###### *source: mom's recipe*

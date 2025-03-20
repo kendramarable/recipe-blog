@@ -9,7 +9,7 @@ source: "grandma"
 
 #  Pumpkin Spice Bread
 
-### Prep Time: 10 minutes | Cook Time: 55 minutes | Makes 16 Servings
+#### Prep Time: 10 minutes | Cook Time: 55 minutes | Makes 16 Servings
 
 ## Ingredients
  
@@ -46,4 +46,4 @@ source: "grandma"
 9. **Cool** in pans for 15 minutes
 
 
-*source: grandma's recipe, originally from White Lily*
+###### *source: grandma's recipe, originally from White Lily*

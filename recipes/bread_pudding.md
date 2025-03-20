@@ -9,7 +9,7 @@ source: "grandma"
 
 #  Bread Pudding
 
-### Prep Time: 15 minutes | Cook Time: 60 minutes | Makes 8 Servings
+#### Prep Time: 15 minutes | Cook Time: 60 minutes | Makes 8 Servings
 
 ## Ingredients
  
@@ -38,4 +38,4 @@ source: "grandma"
 7. **Serve** hot or cold with ice cream, fruit, or preserves
 
 
-*source: grandma's recipe, originally from Borden*
+###### *source: grandma's recipe, originally from Borden*

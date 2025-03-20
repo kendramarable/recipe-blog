@@ -9,7 +9,7 @@ source: "grandma"
 
 # Sugar Cookies
 
-### Prep Time: 5 minutes | Cook Time: 10 minutes | Makes 24 Servings
+#### Prep Time: 5 minutes | Cook Time: 10 minutes | Makes 24 Servings
 
 ## Ingredients
  
@@ -33,4 +33,4 @@ source: "grandma"
 5. **Bake** at 375 degrees for 8-10 minutes
 
 
-*source: grandma's recipe*
+###### *source: grandma's recipe*

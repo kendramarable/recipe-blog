@@ -9,7 +9,7 @@ source: "grandma"
 
 # Lemon Cloud Pie
 
-### Prep Time: 30 minutes | Cook Time: 15 minutes | Makes 8 Servings
+#### Prep Time: 30 minutes | Cook Time: 15 minutes | Makes 8 Servings
 
 ## Ingredients
  
@@ -58,4 +58,4 @@ source: "grandma"
 16. **Sprinkle** crumbled pastry around edge of pie before serving
 
 
-*source: grandma's recipe, originally from "The Idea Flour: Prize-Winning Bake-Off Recipes Streamlined, Shortcutted and Up-to-Dated for You, Today's Busy Housewife from Pillsbury"*
+###### *source: grandma's recipe, originally from "The Idea Flour: Prize-Winning Bake-Off Recipes Streamlined, Shortcutted and Up-to-Dated for You, Today's Busy Housewife from Pillsbury"*

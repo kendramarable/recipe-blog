@@ -9,7 +9,7 @@ source: "mom"
 
 # Chinese Pepper Steak
 
-### Prep Time: 50 minutes | Cook Time: 60 minutes | Makes 4 Servings
+#### Prep Time: 50 minutes | Cook Time: 60 minutes | Makes 4 Servings
 
 ## Ingredients
  
@@ -51,4 +51,4 @@ source: "mom"
 10. **Serve** over hot rice
 
 
-*source: mom's recipe*
+###### *source: mom's recipe*

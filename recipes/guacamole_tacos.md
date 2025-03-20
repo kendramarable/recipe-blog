@@ -9,7 +9,7 @@ source: "grandma"
 
 #  Guacamole Tacos
 
-### Prep Time: 10 minutes | Cook Time: 5 minutes | Makes 4 Servings
+#### Prep Time: 10 minutes | Cook Time: 5 minutes | Makes 4 Servings
 
 ## Ingredients
  
@@ -34,4 +34,4 @@ source: "grandma"
 5. **Fill** shells with lettuce and top with taco sauce if desired
 
 
-*source: grandma's recipe, originally from "Old El Paso Recipes for Tacos"*
+###### *source: grandma's recipe, originally from "Old El Paso Recipes for Tacos"*

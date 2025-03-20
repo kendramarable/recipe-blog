@@ -9,7 +9,7 @@ source: "mom"
 
 # Magic Cookie Bars
 
-### Prep Time: 15 minutes | Cook Time: 30 minutes | Makes 24 Servings
+#### Prep Time: 15 minutes | Cook Time: 30 minutes | Makes 24 Servings
 
 ## Ingredients
  
@@ -39,4 +39,4 @@ source: "mom"
 8. **Bake** at 350 degrees for 25-30 minutes
 
 
-*source: mom's recipe, personal favorite*
+###### *source: mom's recipe, personal favorite*

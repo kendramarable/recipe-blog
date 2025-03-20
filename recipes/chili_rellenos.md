@@ -9,7 +9,7 @@ source: "grandma"
 
 # Chili Rellenos (Stuffed Chilies)
 
-### Prep Time: 10 minutes | Cook Time: 5 minutes | Makes 4 Servings
+#### Prep Time: 10 minutes | Cook Time: 5 minutes | Makes 4 Servings
 
 ## Ingredients
  
@@ -34,4 +34,4 @@ source: "grandma"
 5. **Serve** immediately with preheated tomatoes & green chili spooned over top
 
 
-*source: grandma's recipe, originally from "Old El Paso Mexican Food Favorites"*
+###### *source: grandma's recipe, originally from "Old El Paso Mexican Food Favorites"*

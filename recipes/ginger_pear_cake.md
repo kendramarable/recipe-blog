@@ -9,7 +9,7 @@ source: "grandma"
 
 # Ginger Pear Cake
 
-### Prep Time: 30 minutes | Cook Time: 40 minutes | Makes 12 Servings
+#### Prep Time: 30 minutes | Cook Time: 40 minutes | Makes 12 Servings
 
 ## Ingredients
  
@@ -42,4 +42,4 @@ source: "grandma"
 9. **Bake** at 350 degrees for 40 minutes
 
 
-*source: grandma's recipe*
+###### *source: grandma's recipe*

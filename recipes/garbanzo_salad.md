@@ -9,7 +9,7 @@ source: "grandma"
 
 # Garbanzo Salad
 
-### Prep Time: 10 minutes | Cook Time: 0 minutes | Makes 4 Servings
+#### Prep Time: 10 minutes | Cook Time: 0 minutes | Makes 4 Servings
 
 ## Ingredients
  
@@ -29,4 +29,4 @@ source: "grandma"
 2. **Refrigerate** in covered dish for at least 2 hours before serving
 
 
-*source: grandma's recipe, originally from "Old El Paso Salad Favorites"*
+###### *source: grandma's recipe, originally from "Old El Paso Salad Favorites"*

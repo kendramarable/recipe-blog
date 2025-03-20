@@ -9,7 +9,7 @@ source: "grandma"
 
 #  Banana Cream
 
-### Prep Time: 30 minutes | Cook Time: 0 minutes | Makes Several Servings
+#### Prep Time: 30 minutes | Cook Time: 0 minutes | Makes Several Servings
 
 ## Ingredients
  
@@ -45,4 +45,4 @@ source: "grandma"
 9. **Unmold** on platter and garnish with fresh fruit
 
 
-*source: grandma's recipe*
+###### *source: grandma's recipe*

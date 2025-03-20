@@ -9,7 +9,7 @@ source: "grandma"
 
 #  Broccoli Cheddar Twice-Baked Potatoes
 
-### Prep Time: 25 minutes | Cook Time: 75 minutes | Makes 8 Servings
+#### Prep Time: 25 minutes | Cook Time: 75 minutes | Makes 8 Servings
 
 ## Ingredients
  
@@ -56,4 +56,4 @@ source: "grandma"
 14. **Bake** potatoes at 375 degrees for 10 minutes, or until cheese is melted and bubbly
 
 
-*source: grandma's recipe, originally from Dannon*
+###### *source: grandma's recipe, originally from Dannon*

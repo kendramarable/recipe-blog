@@ -9,7 +9,7 @@ source: "mom"
 
 # Peanut Butter Pie
 
-### Prep Time: 5 minutes | Cook Time: 0 minutes | Makes 8 Servings
+#### Prep Time: 5 minutes | Cook Time: 0 minutes | Makes 8 Servings
 
 ## Ingredients
  
@@ -24,4 +24,4 @@ source: "mom"
 1. **Mix** ingredients together and pour into graham cracker crust
 
 
-*source: mom's recipe*
+###### *source: mom's recipe*

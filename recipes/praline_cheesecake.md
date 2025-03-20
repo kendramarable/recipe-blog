@@ -9,7 +9,7 @@ source: "mom"
 
 # Praline Cheesecake
 
-### Prep Time: 15 minutes | Cook Time: 65 minutes | Makes 12 Servings
+#### Prep Time: 15 minutes | Cook Time: 65 minutes | Makes 12 Servings
 
 ## Ingredients: Crust
  
@@ -49,4 +49,4 @@ source: "mom"
 6. **Transfer** to plate and chill for at least 3 hours
 
 
-*source: mom's recipe, originally from First Citizens National Bank*
+###### *source: mom's recipe, originally from First Citizens National Bank*

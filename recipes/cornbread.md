@@ -9,7 +9,7 @@ source: "grandma"
 
 # Cornbread
 
-### Prep Time: 5 minutes | Cook Time: 25 minutes | Makes 9 Servings
+#### Prep Time: 5 minutes | Cook Time: 25 minutes | Makes 9 Servings
 
 ## Ingredients
  
@@ -35,4 +35,4 @@ source: "grandma"
 5. **Bake** at 350 degrees until golden brown, about 25 minutes
 
 
-*source: grandma's recipe*
+###### *source: grandma's recipe*

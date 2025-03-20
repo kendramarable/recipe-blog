@@ -9,7 +9,7 @@ source: "mom"
 
 # Cheese Dip
 
-### Prep Time: 5 minutes | Cook Time: 10 minutes | Makes Several Servings
+#### Prep Time: 5 minutes | Cook Time: 10 minutes | Makes Several Servings
 
 ## Ingredients
  
@@ -33,4 +33,4 @@ source: "mom"
 5. **Blend** for 30-60 seconds
 
 
-*source: mom's recipe*
+###### *source: mom's recipe*

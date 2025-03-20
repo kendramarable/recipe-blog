@@ -9,7 +9,7 @@ source: "mom"
 
 # Chicken Ro-Tel
 
-### Prep Time: 20 minutes | Cook Time: 40 minutes | Makes 6 Servings
+#### Prep Time: 20 minutes | Cook Time: 40 minutes | Makes 6 Servings
 
 ## Ingredients
  
@@ -35,4 +35,4 @@ source: "mom"
 5. **Bake** at 350 degrees for 30-40 minutes
 
 
-*source: mom's recipe, originally from grandma*
+###### *source: mom's recipe, originally from grandma*

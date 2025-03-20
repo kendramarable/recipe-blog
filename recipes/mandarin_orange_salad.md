@@ -9,7 +9,7 @@ source: "grandma"
 
 # Mandarin Orange Salad
 
-### Prep Time: 5 minutes | Cook Time: 0 minutes | Makes 4 Servings
+#### Prep Time: 5 minutes | Cook Time: 0 minutes | Makes 4 Servings
 
 ## Ingredients
  
@@ -28,4 +28,4 @@ source: "grandma"
 2. **Let** chill overnight before serving
 
 
-*source: grandma's recipe, personal favorite*
+###### *source: grandma's recipe, personal favorite*

@@ -9,7 +9,7 @@ source: "mom"
 
 # Fudge
 
-### Prep Time: 10 minutes | Cook Time: 15 minutes | Makes 24 Servings
+#### Prep Time: 10 minutes | Cook Time: 15 minutes | Makes 24 Servings
 
 ## Ingredients
  
@@ -44,4 +44,4 @@ source: "mom"
  
 
 
-*source: mom's recipe, originally from grandma*
+###### *source: mom's recipe, originally from grandma*

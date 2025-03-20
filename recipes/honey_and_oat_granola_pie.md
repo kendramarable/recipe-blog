@@ -9,7 +9,7 @@ source: "mom"
 
 # Honey and Oat Granola Pie
 
-### Prep Time: 10 minutes | Cook Time: 45 minutes | Makes 8 Servings
+#### Prep Time: 10 minutes | Cook Time: 45 minutes | Makes 8 Servings
 
 ## Ingredients
  
@@ -34,4 +34,4 @@ source: "mom"
 3. **Bake** at 350 degrees for 45 minutes
 
 
-*source: mom's recipe*
+###### *source: mom's recipe*

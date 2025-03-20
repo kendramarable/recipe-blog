@@ -9,7 +9,7 @@ source: "mom"
 
 # Chicken and Broccoli
 
-### Prep Time: 20 minutes | Cook Time: 10 minutes | Makes 6 Servings
+#### Prep Time: 20 minutes | Cook Time: 10 minutes | Makes 6 Servings
 
 ## Ingredients
  
@@ -49,4 +49,4 @@ source: "mom"
 11. **Serve** over rice
 
 
-*source: mom's recipe*
+###### *source: mom's recipe*

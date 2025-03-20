@@ -9,7 +9,7 @@ source: "mom"
 
 # Fried Rice
 
-### Prep Time: 10 minutes | Cook Time: 15 minutes | Makes 4 Servings
+#### Prep Time: 10 minutes | Cook Time: 15 minutes | Makes 4 Servings
 
 ## Ingredients
  
@@ -40,4 +40,4 @@ source: "mom"
 8. **Serve** immediately
 
 
-*source: mom's recipe*
+###### *source: mom's recipe*

@@ -9,7 +9,7 @@ source: "grandma"
 
 # Peanut Blossoms
 
-### Prep Time: 30 minutes | Cook Time: 12 minutes | Makes 48 Servings
+#### Prep Time: 30 minutes | Cook Time: 12 minutes | Makes 48 Servings
 
 ## Ingredients
  
@@ -41,4 +41,4 @@ source: "grandma"
 7. **Top** each cookie immediately with a candy kiss, pressing down firmly so cookie cracks around edge
 
 
-*source: grandma's recipe, originally from "The Idea Flour: Prize-Winning Bake-Off Recipes Streamlined, Shortcutted and Up-to-Dated for You, Today's Busy Housewife from Pillsbury"*
+###### *source: grandma's recipe, originally from "The Idea Flour: Prize-Winning Bake-Off Recipes Streamlined, Shortcutted and Up-to-Dated for You, Today's Busy Housewife from Pillsbury"*

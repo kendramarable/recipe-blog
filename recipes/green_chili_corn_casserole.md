@@ -9,7 +9,7 @@ source: "grandma"
 
 # Green Chili Corn Casserole
 
-### Prep Time: 10 minutes | Cook Time: 30 minutes | Makes 8 Servings
+#### Prep Time: 10 minutes | Cook Time: 30 minutes | Makes 8 Servings
 
 ## Ingredients
  
@@ -32,4 +32,4 @@ source: "grandma"
 4. **Bake** at 350 degrees for 30 minutes
 
 
-*source: grandma's recipe, originally from "Casseroles from Old El Paso"*
+###### *source: grandma's recipe, originally from "Casseroles from Old El Paso"*

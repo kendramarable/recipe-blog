@@ -9,7 +9,7 @@ source: "mom"
 
 # Bruschetta Fresca
 
-### Prep Time: 15 minutes | Cook Time: 2 minutes | Makes 6 Servings
+#### Prep Time: 15 minutes | Cook Time: 2 minutes | Makes 6 Servings
 
 ## Ingredients
  
@@ -44,4 +44,4 @@ source: "mom"
 9. **Slice** rinsed basil into thin strips; sprinkle over top of bread
 
 
-*source: mom's recipe, originally from Apron's*
+###### *source: mom's recipe, originally from Apron's*

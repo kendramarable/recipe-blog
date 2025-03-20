@@ -9,7 +9,7 @@ source: "grandma"
 
 # Frozen Neapolitan Delight
 
-### Prep Time: 10 minutes | Cook Time: 0 minutes | Makes 8 Servings
+#### Prep Time: 10 minutes | Cook Time: 0 minutes | Makes 8 Servings
 
 ## Ingredients
  
@@ -43,4 +43,4 @@ source: "grandma"
 10. **Return** to freezer until ready to serve
 
 
-*source: grandma's recipe, originally from Better Homes Magazine*
+###### *source: grandma's recipe, originally from Better Homes Magazine*

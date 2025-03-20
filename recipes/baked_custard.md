@@ -9,7 +9,7 @@ source: "grandma"
 
 #  Baked Custard
 
-### Prep Time: 10 minutes | Cook Time: 60 minutes | Makes 6 Servings
+#### Prep Time: 10 minutes | Cook Time: 60 minutes | Makes 6 Servings
 
 ## Ingredients
  
@@ -39,4 +39,4 @@ source: "grandma"
 8. **Chill** before serving
 
 
-*source: grandma's recipe, originally from Borden*
+###### *source: grandma's recipe, originally from Borden*

@@ -9,7 +9,7 @@ source: "grandma"
 
 #  Black Forest Pie
 
-### Prep Time: 10 minutes | Cook Time: 0 minutes | Makes 8 Servings
+#### Prep Time: 10 minutes | Cook Time: 0 minutes | Makes 8 Servings
 
 ## Ingredients
  
@@ -34,4 +34,4 @@ source: "grandma"
 6. **Chill** for 2 hours before serving
 
 
-*source: grandma's recipe*
+###### *source: grandma's recipe*

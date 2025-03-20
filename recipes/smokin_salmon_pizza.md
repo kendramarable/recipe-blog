@@ -9,7 +9,7 @@ source: "mom"
 
 # Smokin' Salmon Pizza
 
-### Prep Time: 25 minutes | Cook Time: 15 minutes | Makes 4 Servings
+#### Prep Time: 25 minutes | Cook Time: 15 minutes | Makes 4 Servings
 
 ## Ingredients
  
@@ -42,4 +42,4 @@ source: "mom"
 8. **Cut** into wedges
 
 
-*source: mom's recipe, originally from "Alaska School of Snacking"*
+###### *source: mom's recipe, originally from "Alaska School of Snacking"*

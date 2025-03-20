@@ -9,7 +9,7 @@ source: "mom"
 
 # Spanish Rice
 
-### Prep Time: 10 minutes | Cook Time: 20 minutes | Makes 6 Servings
+#### Prep Time: 10 minutes | Cook Time: 20 minutes | Makes 6 Servings
 
 ## Ingredients
  
@@ -32,4 +32,4 @@ source: "mom"
 5. **Put** cover on and simmer for 20 minutes or until done
 
 
-*source: mom's recipe*
+###### *source: mom's recipe*

@@ -9,7 +9,7 @@ source: "grandma"
 
 # Chili Cornbread
 
-### Prep Time: 15 minutes | Cook Time: 30 minutes | Makes 9 Servings
+#### Prep Time: 15 minutes | Cook Time: 30 minutes | Makes 9 Servings
 
 ## Ingredients
  
@@ -35,4 +35,4 @@ source: "grandma"
 6. **Bake** at 450 degrees until done, about 30 minutes
 
 
-*source: grandma's recipe, originally from "Old El Paso Mexican Food Favorites"*
+###### *source: grandma's recipe, originally from "Old El Paso Mexican Food Favorites"*

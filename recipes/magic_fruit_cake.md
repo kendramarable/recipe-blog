@@ -9,7 +9,7 @@ source: "grandma"
 
 #  Magic Fruit Cake
 
-### Prep Time: 20 minutes | Cook Time: 90 minutes | Makes 10 Servings
+#### Prep Time: 20 minutes | Cook Time: 90 minutes | Makes 10 Servings
 
 ## Ingredients
  
@@ -43,4 +43,4 @@ source: "grandma"
 9. **Bake** at 350 degrees for 1 hour and 30 minutes, or until center springs back when lightly touched with finger and top is golden brown
 
 
-*source: grandma's recipe, originally from Borden*
+###### *source: grandma's recipe, originally from Borden*

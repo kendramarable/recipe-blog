@@ -9,7 +9,7 @@ source: "grandma"
 
 # Pumpkin Dream Pie
 
-### Prep Time: 2 hours | Cook Time: 10 minutes | Makes 8 Servings
+#### Prep Time: 2 hours | Cook Time: 10 minutes | Makes 8 Servings
 
 ## Ingredients
  
@@ -47,4 +47,4 @@ source: "grandma"
 9. **Top** with Dream Whip
 
 
-*source: grandma's recipe, originally from Dream Whip*
+###### *source: grandma's recipe, originally from Dream Whip*

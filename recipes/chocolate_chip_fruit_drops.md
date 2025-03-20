@@ -9,7 +9,7 @@ source: "mom"
 
 # Chocolate Chip Fruit Drops
 
-### Prep Time: 25 minutes | Cook Time: 12 minutes | Makes 84 Servings
+#### Prep Time: 25 minutes | Cook Time: 12 minutes | Makes 84 Servings
 
 ## Ingredients
  
@@ -53,4 +53,4 @@ source: "mom"
  
 
 
-*source: mom's recipe, originally a printed recipe*
+###### *source: mom's recipe, originally a printed recipe*
