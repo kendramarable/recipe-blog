@@ -3,7 +3,7 @@ import { cn } from "@/lib/utils"
 export default function About() {
   return (
     <main className={cn(
-        "w-[850px] rounded-base shadow-shadow border-2 border-border bg-main",
+        "max-w-[350px] sm:max-w-[850px] m-auto sm:m-0 rounded-base shadow-shadow border-2 border-border bg-main",
     )}>
         <h3 className="text-2xl font-bold p-4">About</h3>
         <h5 className="text-mtext pl-4">Background</h5>

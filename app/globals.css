@@ -42,7 +42,6 @@
   }
 
   h1 {
-    @apply text-2xl font-bold pl-4 pt-2 pb-2;
   }
   h2 {
     @apply text-xl font-semibold pl-4 pt-2;

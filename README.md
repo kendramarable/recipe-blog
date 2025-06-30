@@ -1,9 +1,6 @@
-# Next.js Recipe Blog
+# Cindy's Cookbook
 
-- blogposts are statically generated (all built at build time, don't have to re-fetch when loading pages)
-- all recipes are server-side rendered, improving SEO
-
-Website design is still being worked on
+## This application is hosted at https://cindys-cookbook.netlify.app/
 
 ## How to Run Locally
 

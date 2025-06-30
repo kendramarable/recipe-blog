@@ -20,7 +20,7 @@ export default function Card(props: CardProps) {
         <Link className="no-underline" href={`/recipe/${post.slug}`}>
             <div
                 className={cn(
-                    "h-full flex flex-col rounded-base shadow-shadow border-2 border-border bg-main text-mtext hover:translate-x-boxShadowX hover:translate-y-boxShadowY hover:shadow-none p-4 my-2 gap-16 duration-200",
+                    "w-[340px] sm:w-auto h-full m-auto sm:m-0 flex flex-col rounded-base shadow-shadow border-2 border-border bg-main text-mtext hover:translate-x-boxShadowX hover:translate-y-boxShadowY hover:shadow-none p-4 my-2 gap-16 duration-200",
                     )}
             >
                 <h3>{post.title}</h3>
