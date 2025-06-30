@@ -16,7 +16,7 @@ interface PostMetadata {
 
 // searchResult displays all the recipes that match the searchValue
 // (looks for recipe titles that match the user's text input into the SearchBar)
-export default function SearchResult(props: { postMetadata: any; }) {
+export default function SearchResult(props: { postMetadata: PostMetadata[]; }) {
     const {postMetadata} = props;
     const [searchValue, setSearchValue] = useState('');
     return (

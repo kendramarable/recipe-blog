@@ -9,12 +9,12 @@ export default function About() {
         <h5 className="text-mtext pl-4">Background</h5>
         <p className="text-mtext px-4 pt-1">
             This is a blog dedicated to sharing recipes from my family.
-            The name "Cindy's Cookbook" is in honor of my late mother, Cindy, who loved to cook. 
+            The name &quot;Cindy&apos;s Cookbook&quot; is in honor of my late mother, Cindy, who loved to cook. 
             All the recipes listed on this blog come from hand-written or printed recipes that my mother kept in her kitchen.
             Some recipes were originally from my late grandmother, Sue, as well.
             You can find the source of each recipe at the bottom of its respective page.
-            Note that when translating some of the recipes to a digital form, I've had to fill in some blanks myself, as some recipes were either incomplete or the writing was faded.
-            Therefore, some measurements may be off, but I've done my best to preserve each recipe as accurately as possible.
+            Note that when translating some of the recipes to a digital form, I&apos;ve had to fill in some blanks myself, as some recipes were either incomplete or the writing was faded.
+            Therefore, some measurements may be off, but I&apos;ve done my best to preserve each recipe as accurately as possible.
         </p>
         <br></br>
         <h5 className="text-mtext pl-4">Navigation</h5>
