@@ -23,11 +23,15 @@ export default function About() {
             Each card will provide some basic information including recipe name, prep time, cook time, servings, and type of dish.
             Click on a card to take you to its respective recipe page, where you will receive the full ingredients list and instructions.
             Click on the blog title in the top-left corner to return to the homepage.
-            You can also use the searchbar located on the homepage in order to filter recipes by name.
+            You can also use the searchbar located on the homepage in order to filter recipes by name, type (sweet or savory), or source (mom or grandma).
         </p>
         <br></br>
         <p className="text-mtext px-4 pt-1 pb-4">
             I hope you enjoy exploring this little family tribute of mine. :)
+        </p>
+        <br></br>
+        <p className="text-mtext px-4 pt-1 pb-4">
+            km, 2025
         </p>
     </main>
   );

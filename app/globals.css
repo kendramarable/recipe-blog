@@ -35,7 +35,10 @@
     min-height: 100vh;
     padding: 16px;
     gap: 16px;
+    margin-bottom: 12px;
+    background-image: linear-gradient(to bottom, #816345 1px, transparent 1px);
     background-color: #f7eed7;
+    background-size: 40px 40px;
   }
 
   h1 {

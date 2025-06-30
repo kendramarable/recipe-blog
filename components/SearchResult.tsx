@@ -29,7 +29,9 @@ export default function SearchResult(props: { postMetadata: any; }) {
                 "grid grid-cols-2 gap-24"
             )}>
                 {postMetadata.filter((val: PostMetadata) => {
-                    return val.title.toLowerCase().includes(searchValue.toLowerCase())
+                    return (val.title.toLowerCase().includes(searchValue.toLowerCase()) 
+                        || val.type.toLowerCase().includes(searchValue.toLowerCase()) 
+                        || val.source.toLowerCase().includes(searchValue.toLowerCase()));
                 }).map((post: PostMetadata, postIndex: number) => {
                 return (
                     <Card key={postIndex} post={post}/>

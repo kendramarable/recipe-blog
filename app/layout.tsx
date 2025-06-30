@@ -14,21 +14,11 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
 
-  let footer = (
-    <footer
-    className={cn(
-      "w-full max-w-800 m-auto flex items-center justify-center pt-8"
-    )}>
-      km, 2025
-    </footer>
-  )
-
   return (
     <html lang="en">
       <body>
         <Navbar />
         {children}
-        {footer}
       </body>
     </html>
   );
