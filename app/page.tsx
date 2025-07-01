@@ -1,11 +1,12 @@
 import getMetadata from "@/utils/getMetadata";
-import SearchResult from "@/components/SearchResult";
+import SearchResultPagination from "@/components/SearchResultPagination";
 
 export default function Home() {
   const postMetadata = getMetadata('recipes');
+
   return (
     <main>
-      <SearchResult postMetadata={postMetadata} />
+      <SearchResultPagination postMetadata={postMetadata} />
     </main>
   );
 }

@@ -26,7 +26,7 @@ export default function SearchResult(props: { postMetadata: PostMetadata[]; }) {
                 setSearchValue={setSearchValue}
             />
             <div className={cn(
-                "grid grid-cols-1 sm:grid-cols-2 gap-24"
+                "grid grid-cols-1 sm:grid-cols-2 gap-12 sm:gap-24"
             )}>
                 {postMetadata.filter((val: PostMetadata) => {
                     return (val.title.toLowerCase().includes(searchValue.toLowerCase()) 
