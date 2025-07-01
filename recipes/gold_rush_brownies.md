@@ -7,7 +7,7 @@ type: "Sweet"
 source: "grandma"
 ---
 
-#  Gold Rush Brownies
+## Gold Rush Brownies
 
 #### Prep Time: 5 minutes | Cook Time: 40 minutes | Makes 16 Servings
 

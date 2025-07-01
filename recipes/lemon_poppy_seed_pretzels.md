@@ -7,7 +7,7 @@ type: "Sweet"
 source: "mom"
 ---
 
-# Lemon Poppy Seed Pretzels
+## Lemon Poppy Seed Pretzels
 
 #### Prep Time: 60 minutes | Cook Time: 20 minutes | Makes 25 Servings
 

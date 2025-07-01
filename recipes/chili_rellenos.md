@@ -7,7 +7,7 @@ type: "Savory"
 source: "grandma"
 ---
 
-# Chili Rellenos (Stuffed Chilies)
+## Chili Rellenos (Stuffed Chilies)
 
 #### Prep Time: 10 minutes | Cook Time: 5 minutes | Makes 4 Servings
 

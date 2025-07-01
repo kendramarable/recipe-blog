@@ -7,7 +7,7 @@ type: "Savory"
 source: "mom"
 ---
 
-# Bruschetta Fresca
+## Bruschetta Fresca
 
 #### Prep Time: 15 minutes | Cook Time: 2 minutes | Makes 6 Servings
 

@@ -7,7 +7,7 @@ type: "Sweet"
 source: "grandma"
 ---
 
-# Date Squares
+## Date Squares
 
 #### Prep Time: 15 minutes | Cook Time: 30 minutes | Makes 12 Servings
 

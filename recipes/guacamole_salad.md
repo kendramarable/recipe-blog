@@ -7,7 +7,7 @@ type: "Savory"
 source: "grandma"
 ---
 
-# Chili Cornbread
+## Guacamole Salad
 
 #### Prep Time: 10 minutes | Cook Time: 0 minutes | Makes 4 Servings
 

@@ -7,7 +7,7 @@ type: "Savory"
 source: "mom"
 ---
 
-# Salmon-Pesto Focaccia Sandwiches
+## Salmon-Pesto Focaccia Sandwiches
 
 #### Prep Time: 30 minutes | Cook Time: 0 minutes | Makes 4 Servings
 

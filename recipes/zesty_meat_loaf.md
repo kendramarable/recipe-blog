@@ -7,7 +7,7 @@ type: "Savory"
 source: "grandma"
 ---
 
-#  Zesty Meat Loaf
+## Zesty Meat Loaf
 
 #### Prep Time: 10 minutes | Cook Time: 60 minutes | Makes 4 Servings
 

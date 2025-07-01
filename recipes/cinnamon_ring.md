@@ -7,7 +7,7 @@ type: "Sweet"
 source: "grandma"
 ---
 
-# Cinnamon Ring
+## Cinnamon Ring
 
 #### Prep Time: 10 minutes | Cook Time: 30 minutes | Makes 24 Servings
 

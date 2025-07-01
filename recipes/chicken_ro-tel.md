@@ -7,7 +7,7 @@ type: "Savory"
 source: "mom"
 ---
 
-# Chicken Ro-Tel
+## Chicken Ro-Tel
 
 #### Prep Time: 20 minutes | Cook Time: 40 minutes | Makes 6 Servings
 

@@ -7,7 +7,7 @@ type: "Sweet"
 source: "grandma"
 ---
 
-# Honey Candy Bites
+## Honey Candy Bites
 
 #### Prep Time: 10 minutes | Cook Time: 10 minutes | Makes 42 Servings
 

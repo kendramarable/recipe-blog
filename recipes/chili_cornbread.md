@@ -7,7 +7,7 @@ type: "Savory"
 source: "grandma"
 ---
 
-# Chili Cornbread
+## Chili Cornbread
 
 #### Prep Time: 15 minutes | Cook Time: 30 minutes | Makes 9 Servings
 

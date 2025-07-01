@@ -7,7 +7,7 @@ type: "Savory"
 source: "mom"
 ---
 
-# Beef Stir Fry With Mushrooms
+## Beef Stir Fry With Mushrooms
 
 #### Prep Time: 90 minutes | Cook Time: 25 minutes | Makes 4 Servings
 

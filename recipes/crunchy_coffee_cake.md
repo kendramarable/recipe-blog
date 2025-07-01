@@ -7,7 +7,7 @@ type: "Sweet"
 source: "grandma"
 ---
 
-#  Crunchy Coffee Cake
+## Crunchy Coffee Cake
 
 #### Prep Time: 15 minutes | Cook Time: 40 minutes | Makes 16 Servings
 

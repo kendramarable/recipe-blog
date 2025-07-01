@@ -7,7 +7,7 @@ type: "Sweet"
 source: "grandma"
 ---
 
-#  Lemon Meringue Pie
+## Lemon Meringue Pie
 
 #### Prep Time: 10 minutes | Cook Time: 15 minutes | Makes 8 Servings
 

@@ -7,7 +7,7 @@ type: "Sweet"
 source: "grandma"
 ---
 
-# Rocky Road Fudge
+## Rocky Road Fudge
 
 #### Prep Time: 30 minutes | Cook Time: 0 minutes | Makes 20 Servings
 

@@ -7,7 +7,7 @@ type: "Sweet"
 source: "grandma"
 ---
 
-#  Peanut Butter Cookies
+## Peanut Butter Cookies
 
 #### Prep Time: 10 minutes | Cook Time: 15 minutes | Makes 24 Servings
 

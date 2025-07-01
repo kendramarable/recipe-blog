@@ -7,7 +7,7 @@ type: "Sweet"
 source: "grandma"
 ---
 
-# Carnation's 5 Minute Fudge
+## Carnation's 5 Minute Fudge
 
 #### Prep Time: 5 minutes | Cook Time: 5 minutes | Makes 20 Servings
 

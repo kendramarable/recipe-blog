@@ -7,7 +7,7 @@ type: "Savory"
 source: "grandma"
 ---
 
-# Dill Pickles
+## Dill Pickles
 
 #### Prep Time: 5 minutes | Cook Time: 20 minutes | Makes Several Servings
 

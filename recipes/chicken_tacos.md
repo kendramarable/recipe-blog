@@ -7,7 +7,7 @@ type: "Savory"
 source: "grandma"
 ---
 
-#  Chicken Tacos
+## Chicken Tacos
 
 #### Prep Time: 15 minutes | Cook Time: 15 minutes | Makes 4 Servings
 

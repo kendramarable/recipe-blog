@@ -7,7 +7,7 @@ type: "Sweet"
 source: "grandma"
 ---
 
-#  Peach Jubilee Pie
+## Peach Jubilee Pie
 
 #### Prep Time: 25 minutes | Cook Time: 0 minutes | Makes 8 Servings
 

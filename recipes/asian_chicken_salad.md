@@ -7,7 +7,7 @@ type: "Savory"
 source: "mom"
 ---
 
-# Asian Chicken Salad
+## Asian Chicken Salad
 
 #### Prep Time: 35 minutes | Cook Time: 0 minutes | Makes 4 Servings
 

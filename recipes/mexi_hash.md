@@ -7,7 +7,7 @@ type: "Savory"
 source: "grandma"
 ---
 
-#  Mexi Hash
+## Mexi Hash
 
 #### Prep Time: 10 minutes | Cook Time: 10 minutes | Makes 3 Servings
 

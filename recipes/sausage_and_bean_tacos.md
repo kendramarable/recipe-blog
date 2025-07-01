@@ -7,7 +7,7 @@ type: "Savory"
 source: "grandma"
 ---
 
-#  Sausage and Bean Tacos
+## Sausage and Bean Tacos
 
 #### Prep Time: 5 minutes | Cook Time: 10 minutes | Makes 4 Servings
 

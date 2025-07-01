@@ -7,7 +7,7 @@ type: "Savory"
 source: "grandma"
 ---
 
-#  Green Enchiladas with Chicken
+## Green Enchiladas with Chicken
 
 #### Prep Time: 35 minutes | Cook Time: 30 minutes | Makes 4 Servings
 

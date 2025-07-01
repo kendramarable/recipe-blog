@@ -7,7 +7,7 @@ type: "Savory"
 source: "mom"
 ---
 
-# Meat-Cheese Loaf
+## Meat-Cheese Loaf
 
 #### Prep Time: 20 minutes | Cook Time: 30 minutes | Makes 6 Servings
 

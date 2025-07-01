@@ -7,7 +7,7 @@ type: "Sweet"
 source: "mom"
 ---
 
-# Blonde Brownies
+## Blonde Brownies
 
 #### Prep Time: 10 minutes | Cook Time: 30 minutes | Makes 24 Servings
 

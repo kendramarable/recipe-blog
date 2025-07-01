@@ -7,7 +7,7 @@ type: "Savory"
 source: "grandma"
 ---
 
-# Green Rice
+## Green Rice
 
 #### Prep Time: 50 minutes | Cook Time: 40 minutes | Makes 10 Servings
 

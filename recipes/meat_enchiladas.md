@@ -7,7 +7,7 @@ type: "Savory"
 source: "grandma"
 ---
 
-#  Meat Enchiladas
+## Meat Enchiladas
 
 #### Prep Time: 20 minutes | Cook Time: 10 minutes | Makes 4 Servings
 

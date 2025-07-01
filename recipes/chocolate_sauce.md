@@ -7,7 +7,7 @@ type: "Sweet"
 source: "grandma"
 ---
 
-#  Chocolate Sauce
+## Chocolate Sauce
 
 #### Prep Time: 5 minutes | Cook Time: 10 minutes | Makes Several Servings
 

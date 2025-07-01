@@ -7,7 +7,7 @@ type: "Sweet"
 source: "mom"
 ---
 
-# Egg Nog Cheesecake
+## Egg Nog Cheesecake
 
 #### Prep Time: 35 minutes | Cook Time: 0 minutes | Makes 12 Servings
 

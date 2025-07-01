@@ -7,7 +7,7 @@ type: "Savory"
 source: "grandma"
 ---
 
-# Huevos Rancheros (Mexican Eggs)
+## Huevos Rancheros (Mexican Eggs)
 
 #### Prep Time: 10 minutes | Cook Time: 20 minutes | Makes 4 Servings
 

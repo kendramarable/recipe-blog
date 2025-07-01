@@ -7,7 +7,7 @@ type: "Savory"
 source: "mom"
 ---
 
-# Creamy Squash Casserole
+## Creamy Squash Casserole
 
 #### Prep Time: 30 minutes | Cook Time: 30 minutes | Makes 8 Servings
 

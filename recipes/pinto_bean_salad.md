@@ -7,7 +7,7 @@ type: "Savory"
 source: "grandma"
 ---
 
-# Pinto Bean Salad
+## Pinto Bean Salad
 
 #### Prep Time: 5 minutes | Cook Time: 0 minutes | Makes 4 Servings
 

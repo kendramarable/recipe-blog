@@ -7,7 +7,7 @@ type: "Savory"
 source: "grandma"
 ---
 
-#  Cheese Straws
+## Cheese Straws
 
 #### Prep Time: 75 minutes | Cook Time: 15 minutes | Makes Several Servings
 

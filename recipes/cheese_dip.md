@@ -7,7 +7,7 @@ type: "Savory"
 source: "mom"
 ---
 
-# Cheese Dip
+## Cheese Dip
 
 #### Prep Time: 5 minutes | Cook Time: 10 minutes | Makes Several Servings
 

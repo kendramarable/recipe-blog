@@ -7,7 +7,7 @@ type: "Savory"
 source: "grandma"
 ---
 
-# Chili Relleno Corn Casserole
+## Chili Relleno Corn Casserole
 
 #### Prep Time: 20 minutes | Cook Time: 30 minutes | Makes 8 Servings
 

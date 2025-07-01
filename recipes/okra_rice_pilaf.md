@@ -7,7 +7,7 @@ type: "Savory"
 source: "grandma"
 ---
 
-# Okra Rice Pilaf
+## Okra Rice Pilaf
 
 #### Prep Time: 5 minutes | Cook Time: 45 minutes | Makes 4 Servings
 

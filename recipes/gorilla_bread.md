@@ -7,7 +7,7 @@ type: "Sweet"
 source: "mom"
 ---
 
-# Gorilla Bread
+## Gorilla Bread
 
 #### Prep Time: 15 minutes | Cook Time: 60 minutes | Makes 10 Servings
 

@@ -7,7 +7,7 @@ type: "Savory"
 source: "grandma"
 ---
 
-# Tamale Pie Casserole
+## Tamale Pie Casserole
 
 #### Prep Time: 25 minutes | Cook Time: 15 minutes | Makes 8 Servings
 

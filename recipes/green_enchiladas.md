@@ -7,7 +7,7 @@ type: "Savory"
 source: "grandma"
 ---
 
-#  Green Enchiladas
+## Green Enchiladas
 
 #### Prep Time: 10 minutes | Cook Time: 10 minutes | Makes 4 Servings
 

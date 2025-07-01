@@ -7,7 +7,7 @@ type: "Sweet"
 source: "mom"
 ---
 
-# Honey and Oat Granola Pie
+## Honey and Oat Granola Pie
 
 #### Prep Time: 10 minutes | Cook Time: 45 minutes | Makes 8 Servings
 

@@ -7,7 +7,7 @@ type: "Sweet"
 source: "grandma"
 ---
 
-# Pumpkin Pie
+## Pumpkin Pie
 
 #### Prep Time: 15 minutes | Cook Time: 50 minutes | Makes 8 Servings
 

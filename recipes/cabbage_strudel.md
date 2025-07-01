@@ -7,7 +7,7 @@ type: "Savory"
 source: "mom"
 ---
 
-# Cabbage Strudel
+## Cabbage Strudel
 
 #### Prep Time: 25 minutes | Cook Time: 35 minutes | Makes 8 Servings
 

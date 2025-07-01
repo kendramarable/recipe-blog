@@ -7,7 +7,7 @@ type: "Savory"
 source: "mom"
 ---
 
-# Hawaiian Chicken Salad
+## Hawaiian Chicken Salad
 
 #### Prep Time: 5 minutes | Cook Time: 0 minutes | Makes 4 Servings
 

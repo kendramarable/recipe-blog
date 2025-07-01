@@ -7,7 +7,7 @@ type: "Savory"
 source: "grandma"
 ---
 
-#  No-Knead Dough
+## No-Knead Dough
 
 #### Prep Time: 90 minutes | Cook Time: 15 minutes | Makes 16-24 Servings
 

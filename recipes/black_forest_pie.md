@@ -7,7 +7,7 @@ type: "Sweet"
 source: "grandma"
 ---
 
-#  Black Forest Pie
+## Black Forest Pie
 
 #### Prep Time: 10 minutes | Cook Time: 0 minutes | Makes 8 Servings
 

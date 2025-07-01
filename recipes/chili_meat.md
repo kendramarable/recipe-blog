@@ -7,7 +7,7 @@ type: "Savory"
 source: "grandma"
 ---
 
-# Chili Meat
+## Chili Meat
 
 #### Prep Time: 20 minutes | Cook Time: 50 minutes | Makes 4 Servings
 

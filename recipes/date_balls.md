@@ -7,7 +7,7 @@ type: "Sweet"
 source: "grandma"
 ---
 
-# Date Balls
+## Date Balls
 
 #### Prep Time: 20 minutes | Cook Time: 20 minutes | Makes 18 Servings
 

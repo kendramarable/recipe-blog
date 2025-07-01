@@ -7,7 +7,7 @@ type: "Sweet"
 source: "mom"
 ---
 
-# Pumpkin Bread
+## Pumpkin Bread
 
 #### Prep Time: 10 minutes | Cook Time: 60 minutes | Makes 8 Servings
 

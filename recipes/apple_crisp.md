@@ -7,7 +7,7 @@ type: "Sweet"
 source: "mom"
 ---
 
-# Apple Crisp
+## Apple Crisp
 
 #### Prep Time: 15 minutes | Cook Time: 50 minutes | Makes 6 Servings
 

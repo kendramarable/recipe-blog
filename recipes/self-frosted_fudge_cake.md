@@ -7,7 +7,7 @@ type: "Sweet"
 source: "grandma"
 ---
 
-#  Self-Frosted Fudge Cake
+## Self-Frosted Fudge Cake
 
 #### Prep Time: 15 minutes | Cook Time: 45 minutes | Makes 12 Servings
 

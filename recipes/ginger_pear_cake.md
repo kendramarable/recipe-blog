@@ -7,7 +7,7 @@ type: "Sweet"
 source: "grandma"
 ---
 
-# Ginger Pear Cake
+## Ginger Pear Cake
 
 #### Prep Time: 30 minutes | Cook Time: 40 minutes | Makes 12 Servings
 

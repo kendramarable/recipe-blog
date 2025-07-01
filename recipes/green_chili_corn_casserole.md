@@ -7,7 +7,7 @@ type: "Savory"
 source: "grandma"
 ---
 
-# Green Chili Corn Casserole
+## Green Chili Corn Casserole
 
 #### Prep Time: 10 minutes | Cook Time: 30 minutes | Makes 8 Servings
 

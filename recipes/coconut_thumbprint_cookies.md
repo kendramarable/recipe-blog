@@ -7,7 +7,7 @@ type: "Sweet"
 source: "grandma"
 ---
 
-# Coconut Thumbprint Cookies
+## Coconut Thumbprint Cookies
 
 #### Prep Time: 30 minutes | Cook Time: 20 minutes | Makes Several Servings
 

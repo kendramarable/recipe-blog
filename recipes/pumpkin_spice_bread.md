@@ -7,7 +7,7 @@ type: "Sweet"
 source: "grandma"
 ---
 
-#  Pumpkin Spice Bread
+## Pumpkin Spice Bread
 
 #### Prep Time: 10 minutes | Cook Time: 55 minutes | Makes 16 Servings
 

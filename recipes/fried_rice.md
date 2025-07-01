@@ -7,7 +7,7 @@ type: "Savory"
 source: "mom"
 ---
 
-# Fried Rice
+## Fried Rice
 
 #### Prep Time: 10 minutes | Cook Time: 15 minutes | Makes 4 Servings
 

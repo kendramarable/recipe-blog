@@ -7,7 +7,7 @@ type: "Savory"
 source: "mom"
 ---
 
-# Cheese Ball
+## Cheese Ball
 
 #### Prep Time: 15 minutes | Cook Time: 0 minutes | Makes Several Servings
 

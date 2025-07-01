@@ -7,7 +7,7 @@ type: "Savory"
 source: "mom"
 ---
 
-# Italian Spaghetti Sauce
+## Italian Spaghetti Sauce
 
 #### Prep Time: 25 minutes | Cook Time: 120 minutes | Makes Several Servings
 

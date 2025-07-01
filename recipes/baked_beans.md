@@ -7,7 +7,7 @@ type: "Savory"
 source: "mom"
 ---
 
-# Baked Beans
+## Baked Beans
 
 #### Prep Time: 5 minutes | Cook Time: 30 minutes | Makes 4 Servings
 

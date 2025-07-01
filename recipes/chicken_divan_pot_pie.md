@@ -7,7 +7,7 @@ type: "Savory"
 source: "mom"
 ---
 
-# Chicken Divan Pot Pie
+## Chicken Divan Pot Pie
 
 #### Prep Time: 30 minutes | Cook Time: 35 minutes | Makes 6 Servings
 

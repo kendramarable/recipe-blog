@@ -7,7 +7,7 @@ type: "Sweet"
 source: "grandma"
 ---
 
-#  Secret Center Nut Bread
+## Secret Center Nut Bread
 
 #### Prep Time: 30 minutes | Cook Time: 85 minutes | Makes 8 Servings
 

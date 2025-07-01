@@ -7,7 +7,7 @@ type: "Sweet"
 source: "grandma"
 ---
 
-# Sugar Cookies
+## Sugar Cookies
 
 #### Prep Time: 5 minutes | Cook Time: 10 minutes | Makes 24 Servings
 

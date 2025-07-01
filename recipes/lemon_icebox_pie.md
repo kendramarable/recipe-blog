@@ -7,7 +7,7 @@ type: "Sweet"
 source: "mom"
 ---
 
-# Lemon Icebox Pie
+## Lemon Icebox Pie
 
 #### Prep Time: 10 minutes | Cook Time: 0 minutes | Makes 8 Servings
 

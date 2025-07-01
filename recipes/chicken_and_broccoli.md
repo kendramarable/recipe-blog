@@ -7,7 +7,7 @@ type: "Savory"
 source: "mom"
 ---
 
-# Chicken and Broccoli
+## Chicken and Broccoli
 
 #### Prep Time: 20 minutes | Cook Time: 10 minutes | Makes 6 Servings
 

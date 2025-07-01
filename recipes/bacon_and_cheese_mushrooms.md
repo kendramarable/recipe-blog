@@ -7,7 +7,7 @@ type: "Savory"
 source: "mom"
 ---
 
-# Bacon & Cheese Mushrooms
+## Bacon & Cheese Mushrooms
 
 #### Prep Time: 35 minutes | Cook Time: 15 minutes | Makes 4 Servings
 

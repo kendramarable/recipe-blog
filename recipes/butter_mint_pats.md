@@ -7,7 +7,7 @@ type: "Sweet"
 source: "grandma"
 ---
 
-#  Butter Mint Pats
+## Butter Mint Pats
 
 #### Prep Time: 25 minutes | Cook Time: 20 minutes | Makes 36 Servings
 

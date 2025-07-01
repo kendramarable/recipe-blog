@@ -7,7 +7,7 @@ type: "Savory"
 source: "mom"
 ---
 
-# Stir Fried Pork
+## Stir Fried Pork
 
 #### Prep Time: 5 minutes | Cook Time: 55 minutes | Makes 6 Servings
 

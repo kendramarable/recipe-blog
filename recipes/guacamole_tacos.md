@@ -7,7 +7,7 @@ type: "Savory"
 source: "grandma"
 ---
 
-#  Guacamole Tacos
+## Guacamole Tacos
 
 #### Prep Time: 10 minutes | Cook Time: 5 minutes | Makes 4 Servings
 

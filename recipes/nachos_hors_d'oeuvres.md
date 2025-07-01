@@ -7,7 +7,7 @@ type: "Savory"
 source: "grandma"
 ---
 
-#  Nachos (Hors d'Oeuvres)
+## Nachos (Hors d'Oeuvres)
 
 #### Prep Time: 10 minutes | Cook Time: 10 minutes | Makes 4 Servings
 

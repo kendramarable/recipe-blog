@@ -7,7 +7,7 @@ type: "Savory"
 source: "mom"
 ---
 
-# Baked Ziti
+## Baked Ziti
 
 #### Prep Time: 15 minutes | Cook Time: 20 minutes | Makes 6 Servings
 

@@ -7,7 +7,7 @@ type: "Savory"
 source: "mom"
 ---
 
-# Holiday Ham and Cheese Ball
+## Holiday Ham and Cheese Ball
 
 #### Prep Time: 15 minutes | Cook Time: 0 minutes | Makes Several Servings
 

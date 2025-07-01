@@ -7,7 +7,7 @@ type: "Savory"
 source: "mom"
 ---
 
-# Mexican Chicken
+## Mexican Chicken
 
 #### Prep Time: 50 minutes | Cook Time: 40 minutes | Makes 4 Servings
 

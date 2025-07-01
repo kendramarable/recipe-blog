@@ -7,7 +7,7 @@ type: "Sweet"
 source: "grandma"
 ---
 
-# Vanilla Frosting
+## Vanilla Frosting
 
 #### Prep Time: 5 minutes | Cook Time: 0 minutes | Makes Several Servings
 

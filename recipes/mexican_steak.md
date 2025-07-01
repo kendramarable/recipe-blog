@@ -7,7 +7,7 @@ type: "Savory"
 source: "grandma"
 ---
 
-# Mexican Steak
+## Mexican Steak
 
 #### Prep Time: 20 minutes | Cook Time: 25 minutes | Makes 4 Servings
 

@@ -7,7 +7,7 @@ type: "Savory"
 source: "grandma"
 ---
 
-# Curry Dip
+## Curry Dip
 
 #### Prep Time: 5 minutes | Cook Time: 0 minutes | Makes Several Servings
 

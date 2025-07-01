@@ -7,7 +7,7 @@ type: "Savory"
 source: "grandma"
 ---
 
-#  White Lily "Light" Biscuits
+## White Lily "Light" Biscuits
 
 #### Prep Time: 15 minutes | Cook Time: 10 minutes | Makes 12 Servings
 

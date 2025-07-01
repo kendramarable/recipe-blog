@@ -7,7 +7,7 @@ type: "Savory"
 source: "grandma"
 ---
 
-# Cornbread
+## Mexican Cornbread
 
 #### Prep Time: 5 minutes | Cook Time: 40 minutes | Makes 9 Servings
 

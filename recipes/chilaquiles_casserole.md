@@ -7,7 +7,7 @@ type: "Savory"
 source: "grandma"
 ---
 
-# Chilaquiles Casserole
+## Chilaquiles Casserole
 
 #### Prep Time: 40 minutes | Cook Time: 45 minutes | Makes 8 Servings
 

@@ -7,7 +7,7 @@ type: "Savory"
 source: "grandma"
 ---
 
-#  Simple Bread
+## Simple Bread
 
 #### Prep Time: 90 minutes | Cook Time: 40 minutes | Makes 20 Servings
 

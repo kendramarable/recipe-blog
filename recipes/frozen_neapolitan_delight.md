@@ -7,7 +7,7 @@ type: "Sweet"
 source: "grandma"
 ---
 
-# Frozen Neapolitan Delight
+## Frozen Neapolitan Delight
 
 #### Prep Time: 10 minutes | Cook Time: 0 minutes | Makes 8 Servings
 

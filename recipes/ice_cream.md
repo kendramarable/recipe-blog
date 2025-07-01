@@ -7,7 +7,7 @@ type: "Sweet"
 source: "grandma"
 ---
 
-# Ice Cream
+## Ice Cream
 
 #### Prep Time: 20 minutes | Cook Time: 20 minutes | Makes Several Servings
 

@@ -7,7 +7,7 @@ type: "Sweet"
 source: "mom"
 ---
 
-# Fudge
+## Fudge
 
 #### Prep Time: 10 minutes | Cook Time: 15 minutes | Makes 24 Servings
 

@@ -7,7 +7,7 @@ type: "Sweet"
 source: "grandma"
 ---
 
-# Vanilla Wafer Cake
+## Vanilla Wafer Cake
 
 #### Prep Time: 10 minutes | Cook Time: 90 minutes | Makes 12 Servings
 

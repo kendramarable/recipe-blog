@@ -7,7 +7,7 @@ type: "Sweet"
 source: "grandma"
 ---
 
-# Double Pistachio Cake
+## Double Pistachio Cake
 
 #### Prep Time: 10 minutes | Cook Time: 50 minutes | Makes 12 Servings
 

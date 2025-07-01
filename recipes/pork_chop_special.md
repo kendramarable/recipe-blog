@@ -7,7 +7,7 @@ type: "Savory"
 source: "mom"
 ---
 
-# Pork Chop Special
+## Pork Chop Special
 
 #### Prep Time: 25 minutes | Cook Time: 40 minutes | Makes 4 Servings
 

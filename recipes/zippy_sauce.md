@@ -7,7 +7,7 @@ type: "Savory"
 source: "mom"
 ---
 
-# Zippy Sauce
+## Zippy Sauce
 
 #### Prep Time: 5 minutes | Cook Time: 0 minutes | Makes Several Servings
 

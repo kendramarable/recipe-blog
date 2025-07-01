@@ -7,7 +7,7 @@ type: "Sweet"
 source: "mom"
 ---
 
-# Praline Cheesecake
+## Praline Cheesecake
 
 #### Prep Time: 15 minutes | Cook Time: 65 minutes | Makes 12 Servings
 

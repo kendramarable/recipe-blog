@@ -7,7 +7,7 @@ type: "Savory"
 source: "mom"
 ---
 
-# Chicken Parmesan
+## Chicken Parmesan
 
 #### Prep Time: 35 minutes | Cook Time: 6 minutes | Makes 6 Servings
 

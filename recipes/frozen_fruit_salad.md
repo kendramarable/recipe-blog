@@ -7,7 +7,7 @@ type: "Sweet"
 source: "grandma"
 ---
 
-#  Frozen Fruit Salad
+## Frozen Fruit Salad
 
 #### Prep Time: 45 minutes | Cook Time: 0 minutes | Makes Several Servings
 

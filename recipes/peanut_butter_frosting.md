@@ -7,7 +7,7 @@ type: "Sweet"
 source: "grandma"
 ---
 
-#  Peanut Butter Frosting
+## Peanut Butter Frosting
 
 #### Prep Time: 5 minutes | Cook Time: 15 minutes | Makes Several Servings
 

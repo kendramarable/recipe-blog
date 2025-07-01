@@ -7,7 +7,7 @@ type: "Savory"
 source: "mom"
 ---
 
-# Smokin' Salmon Pizza
+## Smokin' Salmon Pizza
 
 #### Prep Time: 25 minutes | Cook Time: 15 minutes | Makes 4 Servings
 

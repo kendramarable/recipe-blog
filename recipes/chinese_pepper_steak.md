@@ -7,7 +7,7 @@ type: "Savory"
 source: "mom"
 ---
 
-# Chinese Pepper Steak
+## Chinese Pepper Steak
 
 #### Prep Time: 50 minutes | Cook Time: 60 minutes | Makes 4 Servings
 

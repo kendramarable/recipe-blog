@@ -7,7 +7,7 @@ type: "Sweet"
 source: "grandma"
 ---
 
-# Peanut Blossoms
+## Peanut Blossoms
 
 #### Prep Time: 30 minutes | Cook Time: 12 minutes | Makes 48 Servings
 

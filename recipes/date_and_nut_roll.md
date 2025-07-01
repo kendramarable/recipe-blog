@@ -7,7 +7,7 @@ type: "Sweet"
 source: "grandma"
 ---
 
-#  Date and Nut Roll
+## Date and Nut Roll
 
 #### Prep Time: 10 minutes | Cook Time: 0 minutes | Makes 10 Servings
 

@@ -7,7 +7,7 @@ type: "Savory"
 source: "grandma"
 ---
 
-# Caldillo
+## Caldillo
 
 #### Prep Time: 20 minutes | Cook Time: 110 minutes | Makes 8 Servings
 

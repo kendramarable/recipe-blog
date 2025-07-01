@@ -7,7 +7,7 @@ type: "Savory"
 source: "mom"
 ---
 
-# Lasagna
+## Lasagna
 
 #### Prep Time: 30 minutes | Cook Time: 40 minutes | Makes 8 Servings
 

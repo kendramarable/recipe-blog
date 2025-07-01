@@ -7,7 +7,7 @@ type: "Sweet"
 source: "grandma"
 ---
 
-# Southern Eggnog
+## Southern Eggnog
 
 #### Prep Time: 15 minutes | Cook Time: 0 minutes | Makes Several Servings
 

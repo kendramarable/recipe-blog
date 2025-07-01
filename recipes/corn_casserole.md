@@ -7,7 +7,7 @@ type: "Savory"
 source: "mom"
 ---
 
-# Corn Casserole
+## Corn Casserole
 
 #### Prep Time: 10 minutes | Cook Time: 50 minutes | Makes 5 Servings
 

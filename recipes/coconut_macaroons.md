@@ -7,7 +7,7 @@ type: "Sweet"
 source: "grandma"
 ---
 
-#  Coconut Macaroons
+## Coconut Macaroons
 
 #### Prep Time: 5 minutes | Cook Time: 10 minutes | Makes 30 Servings
 

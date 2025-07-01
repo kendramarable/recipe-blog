@@ -7,7 +7,7 @@ type: "Savory"
 source: "mom"
 ---
 
-# Ricotta Spinach Dip With Chips
+## Ricotta Spinach Dip With Chips
 
 #### Prep Time: 25 minutes | Cook Time: 0 minutes | Makes Several Servings
 

@@ -7,7 +7,7 @@ type: "Savory"
 source: "mom"
 ---
 
-# Corn Chowder
+## Corn Chowder
 
 #### Prep Time: 10 minutes | Cook Time: 35 minutes | Makes 6 Servings
 

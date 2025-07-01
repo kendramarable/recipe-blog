@@ -7,7 +7,7 @@ type: "Sweet"
 source: "grandma"
 ---
 
-# Fruit Cocktail Cake
+## Fruit Cocktail Cake
 
 #### Prep Time: 10 minutes | Cook Time: 45 minutes | Makes 8 Servings
 

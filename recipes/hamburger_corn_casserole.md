@@ -7,7 +7,7 @@ type: "Savory"
 source: "mom"
 ---
 
-# Hamburger Corn Casserole
+## Hamburger Corn Casserole
 
 #### Prep Time: 35 minutes | Cook Time: 45 minutes | Makes 8 Servings
 

@@ -7,7 +7,7 @@ type: "Sweet"
 source: "mom"
 ---
 
-# Magic Cookie Bars
+## Magic Cookie Bars
 
 #### Prep Time: 15 minutes | Cook Time: 30 minutes | Makes 24 Servings
 

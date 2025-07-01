@@ -7,7 +7,7 @@ type: "Sweet"
 source: "grandma"
 ---
 
-# Chocolate Frosting
+## Chocolate Frosting
 
 #### Prep Time: 10 minutes | Cook Time: 0 minutes | Makes Several Servings
 

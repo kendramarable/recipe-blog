@@ -7,7 +7,7 @@ type: "Savory"
 source: "grandma"
 ---
 
-#  Red Enchiladas
+## Red Enchiladas
 
 #### Prep Time: 10 minutes | Cook Time: 10 minutes | Makes 4 Servings
 

@@ -7,7 +7,7 @@ type: "Sweet"
 source: "mom"
 ---
 
-# Peanut Butter Pie
+## Peanut Butter Pie
 
 #### Prep Time: 5 minutes | Cook Time: 0 minutes | Makes 8 Servings
 

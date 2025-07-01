@@ -7,7 +7,7 @@ type: "Savory"
 source: "mom"
 ---
 
-# Salmon Bagel Chip Dippers
+## Salmon Bagel Chip Dippers
 
 #### Prep Time: 15 minutes | Cook Time: 3 minutes | Makes 12 Servings
 

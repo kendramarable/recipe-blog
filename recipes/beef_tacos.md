@@ -7,7 +7,7 @@ type: "Savory"
 source: "grandma"
 ---
 
-#  Beef Tacos
+## Beef Tacos
 
 #### Prep Time: 5 minutes | Cook Time: 5 minutes | Makes 4 Servings
 

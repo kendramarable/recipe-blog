@@ -7,7 +7,7 @@ type: "Savory"
 source: "mom"
 ---
 
-# Glazed Ham Loaf
+## Glazed Ham Loaf
 
 #### Prep Time: 20 minutes | Cook Time: 80 minutes | Makes 8 Servings
 

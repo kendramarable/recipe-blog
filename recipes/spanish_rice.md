@@ -7,7 +7,7 @@ type: "Savory"
 source: "mom"
 ---
 
-# Spanish Rice
+## Spanish Rice
 
 #### Prep Time: 10 minutes | Cook Time: 20 minutes | Makes 6 Servings
 

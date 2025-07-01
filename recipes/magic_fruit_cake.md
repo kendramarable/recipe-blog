@@ -7,7 +7,7 @@ type: "Sweet"
 source: "grandma"
 ---
 
-#  Magic Fruit Cake
+## Magic Fruit Cake
 
 #### Prep Time: 20 minutes | Cook Time: 90 minutes | Makes 10 Servings
 

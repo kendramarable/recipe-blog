@@ -7,7 +7,7 @@ type: "Savory"
 source: "grandma"
 ---
 
-#  Mexe-Beans With Beef
+## Mexe-Beans With Beef
 
 #### Prep Time: 15 minutes | Cook Time: 20 minutes | Makes 4 Servings
 
