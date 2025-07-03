@@ -3,6 +3,7 @@
 import { useState } from "react";
 import SearchResult from "./SearchResult";
 import { cn } from "@/lib/utils"
+import SearchBar from "./SearchBar";
 
 type PostMetadata = {
     title: string; 
@@ -16,12 +17,27 @@ type PostMetadata = {
 
 export default function SearchResultPagination({postMetadata}: {postMetadata: PostMetadata[]}) {
     const [currentPage, setCurrentPage] = useState(1);
-    const totalPages = Math.ceil(postMetadata.length / 10);
+    const [searchValue, setSearchValue] = useState('');
+
+    const filteredMetadata = postMetadata.filter((val: PostMetadata) => {
+        return (val.title.toLowerCase().includes(searchValue.toLowerCase()) 
+            || val.type.toLowerCase().includes(searchValue.toLowerCase()) 
+            || val.source.toLowerCase().includes(searchValue.toLowerCase()));
+    });
+
+    const totalPages = Math.ceil(filteredMetadata.length / 10);
     const start = (currentPage - 1) * 10;
-    const paginatedPostMetadata = postMetadata.slice(start, start + 10);
+    const paginatedPostMetadata = filteredMetadata.slice(start, start + 10);
 
     return (
         <div>
+            <SearchBar
+                searchValue={searchValue}
+                setSearchValue={(value) => {
+                    setSearchValue(value);
+                    setCurrentPage(1);
+                }}
+            />
             <SearchResult postMetadata={paginatedPostMetadata} />
             <div className="flex justify-center mt-12 mb-2 sm:mb-4 gap-4">
                 <button
