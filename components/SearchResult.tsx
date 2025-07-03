@@ -1,6 +1,4 @@
-'use client';
-import React, {useState} from 'react';
-import SearchBar from './SearchBar';
+import React from 'react';
 import Card from './Card';
 import { cn } from "@/lib/utils"
 
