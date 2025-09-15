@@ -22,7 +22,7 @@ export default function About() {
             The homepage contains cards for each recipe on the blog.
             Each card will provide some basic information including recipe name, prep time, cook time, servings, and type of dish.
             Click on a card to take you to its respective recipe page, where you will receive the full ingredients list and instructions.
-            Click on the blog title in the top-left corner to return to the homepage.
+            Click on the back button or on the blog title in the top-left corner to return to the homepage.
             Click on the Prev and Next buttons at the bottom to navigate between different pages of recipes.
             You can also use the searchbar located on the homepage in order to filter recipes by name, type (sweet or savory), or source (mom or grandma).
         </p>

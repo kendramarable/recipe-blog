@@ -4,6 +4,7 @@ import fs from "fs"
 import matter from "gray-matter"
 import React from "react"
 import { cn } from "@/lib/utils"
+import Link from "next/link"
 
 function getBlogpostContent(slug: string) {
     const folder = 'recipes/';
@@ -45,8 +46,13 @@ export default async function RecipeBlogpost(props: RecipeBlogpostProps) {
 
     return (
         <main className={cn(
-            "flex flex-1 flex-col justify-center",
+            "flex flex-1 flex-col gap-8",
         )}>
+            <Link className={cn(
+                "w-28 mx-auto sm:mx-0 h-12 flex justify-center items-center rounded-base shadow-shadow border-2 border-border bg-main hover:translate-x-boxShadowX hover:translate-y-boxShadowY hover:shadow-none p-4 gap-16 duration-200"
+            )} href='/'>
+                🡠&nbsp;&nbsp;Back
+            </Link>
             <article 
                 className={cn(
                     "w-[340px] sm:w-[850px] m-auto sm:m-0 pr-4 sm:pr-2 rounded-base shadow-shadow border-2 border-border bg-main",

@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import SearchResult from "./SearchResult";
 import { cn } from "@/lib/utils"
 import SearchBar from "./SearchBar";
@@ -16,8 +16,28 @@ type PostMetadata = {
 }
 
 export default function SearchResultPagination({postMetadata}: {postMetadata: PostMetadata[]}) {
-    const [currentPage, setCurrentPage] = useState(1);
-    const [searchValue, setSearchValue] = useState('');
+    const [currentPage, setCurrentPage] = useState(() => {
+        if (typeof window !== "undefined") {
+        const saved = sessionStorage.getItem("searchPage");
+        return saved ? Number(saved) : 1;
+        }
+        return 1;
+    });
+
+    const [searchValue, setSearchValue] = useState(() => {
+        if (typeof window !== "undefined") {
+        return sessionStorage.getItem("searchValue") || "";
+        }
+        return "";
+    });
+
+    useEffect(() => {
+        sessionStorage.setItem("searchPage", String(currentPage));
+    }, [currentPage]);
+
+    useEffect(() => {
+        sessionStorage.setItem("searchValue", searchValue);
+    }, [searchValue]);
 
     const filteredMetadata = postMetadata.filter((val: PostMetadata) => {
         return (val.title.toLowerCase().includes(searchValue.toLowerCase()) 
@@ -35,7 +55,6 @@ export default function SearchResultPagination({postMetadata}: {postMetadata: Po
                 searchValue={searchValue}
                 setSearchValue={(value) => {
                     setSearchValue(value);
-                    setCurrentPage(1);
                 }}
             />
             <SearchResult postMetadata={paginatedPostMetadata} />
